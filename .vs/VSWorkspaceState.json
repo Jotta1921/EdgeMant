@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Plantilla_Agent_basic",
+    "\\Plantilla_Agent_basic\\api",
+    "\\Plantilla_Agent_basic\\multiagent",
+    "\\Plantilla_Agent_basic\\multiagent\\agents",
+    "\\Plantilla_Agent_basic\\multiagent\\tools"
+  ],
+  "SelectedNode": "\\Plantilla_Agent_basic\\api\\api.py",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "132c0269_chunk_000",
+    "text": "P a g e1o f5( S e c t i o n1o f2 )\nAll Rights Reserved.E208828- - -04/10\nASCO Valves\nEASCO Valve, Inc.R 50 Hanover Road, Florham Park, New Jersey 07932 www.ascovalve.com\nR\nInstallation & Maintenance Instructions SERIES\nI&M No.V9575R3\n2--WAY DIRECT--ACTING SOLENOID VALVES\nBRASS OR STAINLESS STEEL CONSTRUCTION -- 1/8I,1 / 4I,O R3 / 8I PIPE THREADS\n8262\n8263\nNORMALLY OPEN OR NORMALLY CLOSED OPERATION\nREVISION “H” & “R”\n( S e c t i o n1o f2 )\nIMPORTANT: See separate solenoid installation and maintenance\ninstructions for information on: Wiring, Solenoid Temperature,\nCauses of Improper Operation, and Coil or Solenoid Replacement.\nDESCRIPTION\nSeries 8262 and 8263 valves are 2- - -way direct- - -acting general\nservice solenoid valves. V alves bodies are of rugged brass or\nstainless steel. Series 8262 or 8263 valves may be provided with a\nwatertight/explosionproof solenoid enclosure.\nOPERATION\nNormally Open: V alve is open when solenoid is de- - -energized;\nclosed when energized.",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 0,
+      "chunk_length": 985,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_001",
+    "text": "watertight/explosionproof solenoid enclosure.\nOPERATION\nNormally Open: V alve is open when solenoid is de- - -energized;\nclosed when energized.\nNormally Closed: V alve is closed when solenoid is de- - -energized;\nopen when energized.\nIMPORTANT: No minimum operating pressure required.\nManual Operation (Valves with Suffix MS)\nManual operator allows manual operation when desired or during\nan electrical power outage.\nT o engage manual operator, rotate stem on the side of the body\nclockwise until it hits a stop, approximately 90_ from its original\nposition. Do NOT rotate beyond stops. Do NOT apply excessive\nforce beyond stops. V alve will now be in the same position as when\nthe solenoid is energized. T o disengage, rotate stem counterclockwise\nuntil it hits a stop, approximately 90_ from its original position. Do\nNOT rotate beyond stops. Do NOT apply excessive force beyond\nstops.\nMS option is not available on valves that have a pressure rating\ngreater than 750 PSI.",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 1,
+      "chunk_length": 974,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_002",
+    "text": "NOT rotate beyond stops. Do NOT apply excessive force beyond\nstops.\nMS option is not available on valves that have a pressure rating\ngreater than 750 PSI.\nCAUTION: Do NOT rotate beyond 90_ stops. Do NOT apply\nexcessive force beyond stops. Rotating beyond the 90_ stops could\nresult to equipment damage.\nCAUTION: For valve to operate electrically, manual operator\nstem must be fully rotated counterclockwise.\nINSTALLATION\nCheck nameplate for correct catalog number, pressure, voltage,\nfrequency, and service. Never apply incompatible fluids or exceed\npressure rating of the valve. Installation and valve maintenance to\nbe performed by qualified personnel.\nNote: Inlet port will either be marked “1” or “IN”. Outlet port will\nbe marked “2” or “OUT”. (see Figure 1)\nFuture Service Considerations.\nProvision should be made for performing seat leakage, external\nleakage, and operational tests on the valve with a\nnonhazardous,noncombustible fluid after disassembly and\nreassembly.\nTemperature Limitations",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 2,
+      "chunk_length": 999,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_003",
+    "text": "leakage, and operational tests on the valve with a\nnonhazardous,noncombustible fluid after disassembly and\nreassembly.\nTemperature Limitations\nFor maximum valve ambient and fluid temperatures, refer to the\nfollowing tables. Use catalog number, coil prefix, suffix, and watt\nrating on nameplate to identify the maximum ambient and fluid\ntemperatures.\nNOTE: The following T emperature Limitations T ables do not\napply to Magnetic Latch V alves: Catalog Numbers 8262A610 to\n8262A627; 8263A615 to 8263A618, and 8263A624 to 8263A627.\nS e es e p a r a t eI n s t r u c t i o nM a n u a l .\nCoil Class\n140\nWattage Ratings\n(_F)(_C)\nHT\n60 Hz 50 Hz\nMax. Ambient\nTemperature\nFB\nEF , EV\nAC DC\n---\n60\n52\n131\n---\n55\n125FB\nFT\nFT\nMax. Ambient Temperature Limitations for AC and DC\nCoil Valves, Catalog Numbers 8262H/R & 8263H/R\nPrefix\nEF , EV\n---\n---\nHB\nHT\nHB\nHT\nHB\nHT\nHB\nEF , EV\nEF , EV\nEF , EV\nEF , EV\n\n---\n---\n---\n---\n---\n---\n---\n---\n10.6, 11.6\n22.6, 18.6\n---\n---\n---\n---",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 3,
+      "chunk_length": 959,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_004",
+    "text": "Coil Valves, Catalog Numbers 8262H/R & 8263H/R\nPrefix\nEF , EV\n---\n---\nHB\nHT\nHB\nHT\nHB\nHT\nHB\nEF , EV\nEF , EV\nEF , EV\nEF , EV\n\n---\n---\n---\n---\n---\n---\n---\n---\n10.6, 11.6\n22.6, 18.6\n---\n---\n---\n---\n=EF , EV data applies to Explosionproof coils only.\nCoil Class\nUR/None\nL t --- N i t r i l e / A\nEPDM/E\nWattage Ratings\n60\n82\n75\n180\n167\n6.1, 10.1,\n9.1, 17.1,\n60 Hz 50 Hz\nValve\nElastomer/\nSuffix\nMax. Fluid\n(Air, Water & Oil)\nTemperature\nCR/J\nFKM/V\nPTFE/T\n140\nNBR/None\nAC DC (_C) (_F)\nFB\nHT with EF\nHT\nHB\n99 210\n121 250\n11.1, 17.1,\n8.1, 10.1,\n---\n18.6, 22.6,\nMax. Fluid Temperature Limitations for AC and DC Coil\nValves, Catalog Numbers 8262H/R & 8263H/R\nFT\n2\nFT, FB,\nHT, HB\n22\n99 210\n6.1, 10.1\n9.1, 17.1\n8.1, 10.1\n11.1, 17.1 - - -\nEV prefix\nHB with EF\nEV prefix\n&\n6.1, 10.1 8.1, 10.1\n9.1, 17.1 11.1, 17.1\n10.6, 11.6\n18.6, 22.6\n10.6, 11.6\n18.6, 22.6\n2\n6.1, 10.1\n9.1, 17.1\n8.1, 10.1\n11.1, 17.1\n22=Solenoid coils with prefix EF & EV are limited to a maximum fluid",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 4,
+      "chunk_length": 957,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_005",
+    "text": "&\n6.1, 10.1 8.1, 10.1\n9.1, 17.1 11.1, 17.1\n10.6, 11.6\n18.6, 22.6\n10.6, 11.6\n18.6, 22.6\n2\n6.1, 10.1\n9.1, 17.1\n8.1, 10.1\n11.1, 17.1\n22=Solenoid coils with prefix EF & EV are limited to a maximum fluid\n=Urethane (UR) elastomer applies to catalog numbers 8262H096,\n \n \ntemperature of 99_C/210_F.\n8262H106, 8262H173, 8262H180, 8262H079, 8262H089, 8262H099,\n8262H107, 8262H200, 8262H175, 8262H176, 8262H181, 8262H214,\n8262R107 & 8262R181 only. Catalog numbers other then those listed\nabove, with no material suffix, use NBR elastomer.\n222\n10.6, 11.6,\n6.1, 10.1 8.1, 10.1\n9.1, 17.1 11.1, 17.1\n6.1, 10.1\n9.1, 17.1\n8.1, 10.1\n11.1, 17.1\n8.1, 10.1\n11.1, 17.1\n8.1, 10.1\n11.1, 17.1\n6.1, 10.1\n9.1, 17.1\n6.1, 10.1\n9.1, 17.1\n10440\n \n\n\n=DC solenoid valves can be operated at maximum ambient temperature of\n55_C / 131_ F with reduced pressure ratings. See page 5 of 5, Section 2\nof 2 for maximum operating pressure differential.\n---\n10.6, 11.6\n22.6, 18.6\n---\nPositioning",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 5,
+      "chunk_length": 963,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_006",
+    "text": "55_C / 131_ F with reduced pressure ratings. See page 5 of 5, Section 2\nof 2 for maximum operating pressure differential.\n---\n10.6, 11.6\n22.6, 18.6\n---\nPositioning\nThese valves are designed to perform properly when mounted in\nany position. However, for optimum life and performance, the\nsolenoid should be mounted vertically and upright to reduce the\npossibility of foreign matter accumulating in the solenoid base\nsub- - -assembly area.",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 6,
+      "chunk_length": 437,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_007",
+    "text": "P a g e2o f 5( S e c t i o n1o f2 ) I&M No.V9575R3\nEASCO Valve, Inc.R 50 Hanover Road, Florham Park, New Jersey 07932 www.ascovalve.com\nMounting\nT wo (2) M5 threaded holes are provided in the valve body for\nmounting. (See Figure 1)\nOptional mounting bracket can be obtained with valve as Suffix MB\nor separately as a kit.\nPiping\nConnect piping or tubing to valve according to markings on valve\nbody. Inlet port will either be marked “1” or “IN”. Outlet port will be\nmarked “2” or “OUT”. Wipe the pipe threads clean of cutting oils.\nApply pipe compound sparingly to male pipe threads only. If applied\nto valve threads, the compound may enter the valve and cause\noperational difficulty. Avoid pipe strain by properly supporting and\naligning piping. When tightening the pipe, do not use valve or\nsolenoid as a lever. Locate wrenches applied to valve body or piping\nas close as possible to connection point.\nIMPORTANT: To protect the solenoid valve, install a strainer or",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 7,
+      "chunk_length": 967,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_008",
+    "text": "solenoid as a lever. Locate wrenches applied to valve body or piping\nas close as possible to connection point.\nIMPORTANT: To protect the solenoid valve, install a strainer or\nfilter suitable for the service involved, in the inlet side as close to the\nvalve as possible. Clean periodically depending on service\nconditions. See ASCO Series 8600, 8601 and 8602 for strainers.\nMAINTENANCE\nWARNING: To prevent the possibility of death,\nserious injury or property damage, turn off electrical\npower, depressurize valve, and vent fluid to a safe area\nbefore servicing the valve.\nNOTE: It is not necessary to remove the valve from the pipeline for\nrepairs.\nCleaning\nAll solenoid valves should be cleaned periodically. The time\nbetween cleanings will vary depending on the medium and service\nconditions. In general, if the voltage to the coil is correct, sluggish\nvalve operation, excessive noise or leakage will indicate that\ncleaning is required. In the extreme case, faulty valve operation",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 8,
+      "chunk_length": 982,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_009",
+    "text": "valve operation, excessive noise or leakage will indicate that\ncleaning is required. In the extreme case, faulty valve operation\nwill occur and the valve may fail to open or close. Clean strainer\nor filter when cleaning the valve.\nPreventive Maintenance\nS Keep the medium flowing through the valve as free from dirt and\nforeign material as possible.\nS Periodic exercise of the valve should be considered if ambient or\nfluid conditions are such that corrosion, elastomer degradation,\nfluid contamination build up, or other conditions that could\nimpede solenoid valve shifting are possible. The actual frequency\nof exercise necessary will depend onspecific operating conditions.\nA successful operating history is the best indication of a proper\ninterval between exercise cycles.\nS Depending on the medium and service conditions, periodic\ninspection of internal valve parts for damage or excessive wear\nis recommended. Thoroughlyclean allparts. Replace anyworn\nor damaged parts.",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 9,
+      "chunk_length": 975,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_010",
+    "text": "S Depending on the medium and service conditions, periodic\ninspection of internal valve parts for damage or excessive wear\nis recommended. Thoroughlyclean allparts. Replace anyworn\nor damaged parts.\nCauses of Improper Operation\nS Incorrect Pressure: Check valve pressure. Pressure to valve must\nbe within range specified on nameplate.\nS Excessive Leakage: Disassemble valve (see Maintenance) and\nclean all parts. If parts are worn or damaged, install a complete\nASCO Rebuild Kit.\nValve Disassembly (see Figures 2, 3 & 4)\n1. Disassemble valve using exploded views for identification of parts.\n2. Remove solenoid, see separate instructions.\n3. Unscrewsolenoidbasesub- - -assemblywithwrench. Remove\ncore assembly, core spring, and solenoid base gasket from\nvalve body.\n4. For normally open construction (Figure 4) remove spring, and\ndisc holder assembly.\n5. All parts are now accessible to clean or replace. If parts are worn\nor damaged, install a complete ASCO Rebuild Kit.\nValve Reassembly",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 10,
+      "chunk_length": 988,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_011",
+    "text": "disc holder assembly.\n5. All parts are now accessible to clean or replace. If parts are worn\nor damaged, install a complete ASCO Rebuild Kit.\nValve Reassembly\n1. Use exploded views for identification, orientation and placement\nof parts.\n2. Lubricate all gaskets with DOW CORNINGr 200 Compound\nlubricant or an equivalent high- - -grade silicone oil.\n3. For normally open construction (Figure 4), install disc holder\nassembly and disc holder spring.\n4. Replace solenoid base gasket, core assembly with core spring\nand solenoid base sub- - -assembly. Note: For core assemblies\nwith internal type core springs, install wide end of core spring\nin core assembly first, closed end of core spring protrudes from\ntop of core assembly. (see Figure 2)\n5. T orque solenoid base sub- - -assembly to 175± 25 in- - -lbs [19,8±\n2,8 Nm].\n6. Install solenoid. See separate solenoid instructions. Then make\nelectrical hookup to solenoid.\nWARNING: To prevent the possibility of death,",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 11,
+      "chunk_length": 964,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_012",
+    "text": "2,8 Nm].\n6. Install solenoid. See separate solenoid instructions. Then make\nelectrical hookup to solenoid.\nWARNING: To prevent the possibility of death,\nserious injury or property damage, check valve for\nproper operation before returning to service. Also\nperform internal seat and external leakage tests with\na nonhazardous, noncombustible fluid.\n7. Restore line pressure and electrical power supply to valve.\n8. After maintenance is completed, operate the valve a few\ntimes to be sure of proper operation. A metallic click\nsignifies the solenoid is operating.\nORDERING INFORMATION\nFOR ASCO REBUILD KITS\nParts marked with an asterisk (*) in the exploded views in Figure 2\n& 3 are supplied in Rebuild Kits. When Ordering Rebuild Kits for\nASCO valves, order the Rebuild Kit number stamped on the valve\nnameplate. If the number of the kit is not visible, order by indicating\nthe quantity of kits required, and the Catalog Number and Serial\nNumber of the valve(s) for which they are intended.",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 12,
+      "chunk_length": 988,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_013",
+    "text": "nameplate. If the number of the kit is not visible, order by indicating\nthe quantity of kits required, and the Catalog Number and Serial\nNumber of the valve(s) for which they are intended.\nM5 thread 7.6 [.30] Min Full Thread\ndepth, 2 Holes for Mounting\nFigure 1 Mounting Dimensions\nFLOW\n18\n[.69]\n1/4 NPT 3/8 NPT\n1/8 NPT\nM5 thread 6 [.24] Min Full Thread\ndepth, 2 Holes for Mounting\nFLOWFLOW\nM5 thread 6.4 [.25]\nMin Full Thread depth,\n2 Holes for Mounting\n15\n[.59]\n8\n[.30]\n21\n[.81]\n19\n[.75]\n14\n[.57]\n22\n[.87]\n22\n[.87]\n9\n[.34]",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 13,
+      "chunk_length": 524,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_014",
+    "text": "P a g e3o f5( S e c t i o n1o f2 )I&M No.V9575R3\nEASCO Valve, Inc.R 50 Hanover Road, Florham Park, New Jersey 07932 www.ascovalve.com\nsolenoid base\nsub- - -assembly 175 25 19,8 2,8+_+ _\nIndicates Parts Supplied\nin ASCO Rebuild Kits.\nPart Name Torque value\nI n c h --- Po u n d s N e w t o n --- M e t e r s\nTorque value\nTorque Chart\nNote:\nWide end of core spring in core first,\nclosed end protrudes from top of core.\nsolenoid base\nsub- - -assembly\ncore assembly\nsolenoid base gasket\nvalve body\n(AC Construction) (DC Construction)\ncore assembly\ncore spring core spring\nFigure 2. Normally Closed Construction\n(see Note) (see Note)\nInternal Spring Construction\nExternal Spring Construction\nWith Manual Operator\nsolenoid base\nsub- - -assembly\ncore assembly\nsolenoid base\ngasket\nretainer ring\nvalve body\nmanual operator\nwith core spring\n(Suffix MS)\nsolenoid base\nsub- - -assembly\ncore assembly\nwith core spring\nsolenoid base\ngasket\nvalve body\ncore guide\nand rider ring\nSuffix “P”\nrider ring\ncore assembly",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 14,
+      "chunk_length": 999,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_015",
+    "text": "with core spring\n(Suffix MS)\nsolenoid base\nsub- - -assembly\ncore assembly\nwith core spring\nsolenoid base\ngasket\nvalve body\ncore guide\nand rider ring\nSuffix “P”\nrider ring\ncore assembly\ncore guide\ncore spring\nPartial cutaway view showing\npositioning of rider ring,\ncore guide, and core spring\non core assembly.",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 15,
+      "chunk_length": 309,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_016",
+    "text": "P a g e4o f 5( S e c t i o n1o f2 ) I&M No.V9575R3\nEASCO Valve, Inc.R 50 Hanover Road, Florham Park, New Jersey 07932 www.ascovalve.com\nDisassembly and Reassembly of Manual Operator (Refer to\nFigure 3)\n1. Position core assembly with core spring attached into base of\nmanual operator body.\n2. Insure retaining ring is properly located in valve body.\n3. Replace solenoid base gasket and solenoid base sub- - -assembly\ninto valve body. T orque solenoid base sub- - -assembly to 175\n±2 5i n - - - l b s[ 1 9 , 8±2 , 8N m ] .\n4. Check manual operator for proper operation. T urn stem\nclockwise and counterclockwise; stem should turn freely\nwithout binding.\nNotes:\nspring washer\n1. Position manual operator at 0_(slot in the stem is\nin horizontal position).\nReinstall retainer ring on body and lock retainer\ninto the stem groove for proper engagement.\n2.\n3.\nReplace solenoid base gasket in valve body.\nTorque solenoid base sub- - -assembly to\n175±25 in- - -lbs [19,8±2,8 Nm]",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 16,
+      "chunk_length": 968,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_017",
+    "text": "into the stem groove for proper engagement.\n2.\n3.\nReplace solenoid base gasket in valve body.\nTorque solenoid base sub- - -assembly to\n175±25 in- - -lbs [19,8±2,8 Nm]\nPosition core assembly with core spring into\nbase of valve body.\n4.\n5. Check operation of manual operator\nsolenoid base gasket\nretainer ring\nFigure 3. manual operator\nFlat portion of stem must face upwards when\nreinstalled into body and retainer must be installed\nwith flat side down to engage the groove in stem.\nIMPORTANT\nstem\nslot\nPartial view to show proper positioning of\nretainer ring on the manual operator\nretainer ring\nstem groove\nFigure 4. Series 8262 & 8263, normally open constructions\nExternal Spring Construction with\nManual Operator (Suffix MS)\nIndicates Parts Supplied\nIn ASCO Rebuild Kits\nholder assembly\nsolenoid base\nsub- - -assembly 175 25 19,8 2,8+_+ _\nPart Name Torque value\ninch- - -pounds\nTorque value\nNewton- - -Meters\nTorque Chart\nsolenoid base gasket\nholder spring\nsolenoid base\nsub- - -assembly",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 17,
+      "chunk_length": 989,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_018",
+    "text": "sub- - -assembly 175 25 19,8 2,8+_+ _\nPart Name Torque value\ninch- - -pounds\nTorque value\nNewton- - -Meters\nTorque Chart\nsolenoid base gasket\nholder spring\nsolenoid base\nsub- - -assembly\ncore assembly\nvalve body\nsolenoid base\nsub- - -assembly\nvalve body\nIndicates Parts Supplied\nIn ASCO Rebuild Kits\nspring washer",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 18,
+      "chunk_length": 313,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_019",
+    "text": "P a g e5o f5( S e c t i o n2o f2 )\nAll Rights Reserved.E208828- - -04/10\nASCO Valves\nEASCO Valve, Inc.R 50 Hanover Road, Florham Park, New Jersey 07932 www.ascovalve.com\n( S e c t i o n2o f2 )\nInstallation & Maintenance Instructions\n2--WAY DIRECT--ACTING SOLENOID VALVES\nBRASS OR STAINLESS STEEL CONSTRUCTION -- 1/8I,1 / 4I,O R3 / 8I PIPE THREADS\nNORMALLY OPEN OR NORMALLY CLOSED OPERATION\nREVISION “H” & “R”\nSERIES\nI&M No.V9575R3\n8262\n8263\nNOTICE: See Installation and Maintenance Instructions, I&M No. V9575R3- - - Section 1 of 2 for detailed instructions.\n8262H002 130\nA i r --- I n e r t\nGas [PSI]\nAt Maximum 40_CA m b i e n t\nMaximum Operating Pressure Differential For\nCatalog Numbers 8262H & 8263H DC Valves\nAt Maximum 55_CA m b i e n t\nGas [PSI]\nA i r --- I n e r t\nGas [PSI]\nWater\n[PSI]\nWater\n[PSI]\nOil [PSI]\n300 ssu\nOil [PSI]\n300 ssu\n8262H006\n8262H007\n8262H011\n8262H012\n8262H013\n8262H014\n8262H015\n8262H016\n8262H019\n8262H020\n8262H021\n8262H023\n8262H036\n8262H038\n8262H079\n8262H080\n8262H086",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 19,
+      "chunk_length": 996,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_020",
+    "text": "[PSI]\nOil [PSI]\n300 ssu\nOil [PSI]\n300 ssu\n8262H006\n8262H007\n8262H011\n8262H012\n8262H013\n8262H014\n8262H015\n8262H016\n8262H019\n8262H020\n8262H021\n8262H023\n8262H036\n8262H038\n8262H079\n8262H080\n8262H086\n8262H089\n8262H105\n8262H106\n8262H107\n8262H108\n8262H111\n8262H112\n8262H113\n130\n130\n110\n110\n110\n95\n95\n90\n120\n120\n120\n100\n100\n100\n90\n90\n85\n295\n750\n38\n210\n640\n33\n205\n550\n31 35\n285\n750\n30\n200\n600\n28\n195\n500\n235\n235\n165\n160\n160\n130\n160\n160\n130\n215\n215\n155\n150\n150\n120\n145\n145\n120\n750\n235\n295\n640\n160\n210\n550\n160\n205 285\n750\n215\n200\n600\n150\n195\n500\n145\n165 130 120 155 120 115\n38 33 31 35 30 28\n27 23 21 24 22 20\n720 920 700 675965 745\n750 640 550 750 600 500\n235 160 160 215 150 145\n1500 1500 1500 1500 1500 1500\n275 275 235 250 250 225\n750 620 530 700 565 495\n1500 1500 1500 1500 1500 1500\n290 290 270 240 240 225\n72 60 55 67 53 52\n135 135 135 115 115 115\n95 75 75 85 72 70\nA i r --- I n e r t\nGas [PSI]\nAt Maximum 40_CA m b i e n t\nMaximum Operating Pressure Differential For",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 20,
+      "chunk_length": 964,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_021",
+    "text": "290 290 270 240 240 225\n72 60 55 67 53 52\n135 135 135 115 115 115\n95 75 75 85 72 70\nA i r --- I n e r t\nGas [PSI]\nAt Maximum 40_CA m b i e n t\nMaximum Operating Pressure Differential For\nCatalog Numbers 8262H & 8263H DC Valves\nAt Maximum 55_CA m b i e n t\nGas [PSI]\nA i r --- I n e r t\nGas [PSI]\nWater\n[PSI]\nWater\n[PSI]\nOil [PSI]\n300 ssu\nOil [PSI]\n300 ssu\n8262H114\n8262H174\n8262H177\n8262H180\n8262H182\n8262H186\n8262H202\n8262H210\n8262H214\n8262H230\n8262H232\n8262H277\n8263H002\n8263H003\n8263H054\n8263H115\n8263H116\n8263H117\n8263H118\n8263H119\n8263H124\n8263H191\n8263H192\n8263H193\n8263H194\n8263H196\n8263H200\n8263H206\n8263H210\n8263H232\n8263H330\n8263H332\n8263H333\n70 70 70 65 65 65\n275 275 235 250 250 225\n290 290 270 240 240 255\n750 620 530 700 565 495\n290 240270290 240 225\n72 60 55 67 53 52\n70 70 70 65 65 65\n65 63 63 55 54 54\n25 25 22 22 22 20\n1170 1145 945 1000 965 855\n53 50 47 48 46 44\n130 125 115 110 105 100\n610 410 410 600 410 400\n130 110 80 120 100 76\n165 130 110 155 120 105\n27 23 21 24 22 20",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 21,
+      "chunk_length": 993,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_022",
+    "text": "65 63 63 55 54 54\n25 25 22 22 22 20\n1170 1145 945 1000 965 855\n53 50 47 48 46 44\n130 125 115 110 105 100\n610 410 410 600 410 400\n130 110 80 120 100 76\n165 130 110 155 120 105\n27 23 21 24 22 20\n275 275 160 250 250 150\n72 60 55 67 53 52\n95 75 75 85 72 70\n135 135 100 115 115 90\n38 33 31 35 30 28\n35 35 35 30 30 30\n275 275 160 250 250 150\n72 60 55 67 53 52\n135 135 100 115 115 90\n38 33 31 35 30 28\n27 23 21 24 22 20\n65 63 50 55 54 44\n70 70 70 65 65 65\n53 50 47 48 46 44\n130 125 85 110 105 75\n130 110 80 120 100 75\n70 70 70 65 65 65\n53 50 47 48 46 44\n8262H001 750 640 550 750 600 500\nMAXIMUM OPERATING PRESSURE DIFFERENTIAL FOR DC VALVES ONLY\nNOTES:\n1.\n2.\nSuffix T (PTFE) valve maximum operating pressure differential is reduced by 25%.\nSuffix MS valves are limited to maximum 750 PSI rating.\n8262H090\n8262H096\n8262H099\n27 23 21 24 22 20\n750 620 565 700 565 530\n1170 1145 945 1000 965 855\n8262H109\n8262H110\n610 410 410 600 410 400\n275 275 235 250 250 225\n8262H176 2000 2000 1725 1900 1900 1700",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 22,
+      "chunk_length": 989,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "132c0269_chunk_023",
+    "text": "8262H096\n8262H099\n27 23 21 24 22 20\n750 620 565 700 565 530\n1170 1145 945 1000 965 855\n8262H109\n8262H110\n610 410 410 600 410 400\n275 275 235 250 250 225\n8262H176 2000 2000 1725 1900 1900 1700\n8262H178 610 410 410 600 410 400\n8262H181 2000 2000 1725 1900 1900 1700\n8262H183\n8262H185\n610 410 410 600 410 400\n275 275 235 250 250 225\n8262H187 135 135 135 115 115 115\n8262H188\n8262H200 1170 1145 945 1000 965 855\n8262H208 35 35 35 30 30 30\n8262H212 53 50 47 48 46 44\n8262H022 130 110 90 120 100 85",
+    "metadata": {
+      "source": "manual_asco3.pdf",
+      "chunk_index": 23,
+      "chunk_length": 492,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  }
+]

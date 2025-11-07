@@ -1,0 +1,254 @@
+[
+  {
+    "id": "92e59def_chunk_000",
+    "text": "Bedienungsanleitung \nManuel d‘utilisation\nOperating Instructions\nType 6213 EV, 6281 EV \n2/2-way solenoid valve\n2/2-Wege-Magnetventil\nÉlectrovanne 2/2 voies",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 0,
+      "chunk_length": 155,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_001",
+    "text": "2\n1 OPERATING INSTRUCTIONS\nThe operating instructions contain important information.\n ▶ Read the operating instructions carefully and follow the safety instruc-\ntions in particular, and also observe the operating conditions.\n ▶ Operating instructions must be available to each user.\n ▶ The liability and warranty for the device are void if the operating instruc-\ntions are not followed.\n1.1 Symbols\n ▶ designates an instruction to prevent risks.\n →designates a procedure which you must carry out.\nWarning of injuries:\nDANGER!\nImminent danger. Serious or fatal injuries.\nWARNING!\nPotential danger. Serious or fatal injuries.\nCAUTION!\nDanger. Minor or moderately severe injuries.\nWarns of damage to property:\nNOTE! \n2 INTENDED USE\nIncorrect use of the solenoid valve can be dangerous to people, \nnearby equipment and the environment.\n ▶ The device type 6213 EV / 6281 EV is designed to control, shut off \nand meter neutral media up to a viscosity of 21 mm2/s.",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 1,
+      "chunk_length": 957,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_002",
+    "text": "nearby equipment and the environment.\n ▶ The device type 6213 EV / 6281 EV is designed to control, shut off \nand meter neutral media up to a viscosity of 21 mm2/s.\n ▶ Provided the cable plug is connected and installed correctly, e.g. \nBürkert Type 2508, the device satisfies protection class IP65 in \naccordance with DIN EN 60529 / IEC 60529.\n ▶ Use according to the permitted data, operating conditions and con-\nditions of use specified in the contract documents and operating \ninstructions.\n ▶ In the case of explosion-proof devices (see rating plate or additional \nplate) also follow the operating instructions for the coil / pilot control.\n ▶ Correct transportation, correct storage and installation and careful use \nand maintenance are essential for reliable and problem-free operation.\n ▶ Use the device only as intended.\n2.1 Definition of term\nIn these operating instructions, the term “device” always refers to the \nType 6213 EV / 6281 EV.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 2,
+      "chunk_length": 955,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_003",
+    "text": "3\nRisk of injury due to malfunction of valves with alternating \ncurrent (AC).\nSticking core causes coil to overheat, resulting in a malfunction.\n ▶ Monitor process to ensure function is in perfect working order.\nRisk of short-circuit/escape of media through leaking screw \njoints.\n ▶ Ensure seals are seated correctly.\n ▶ Carefully screw valve and pipelines together.\nTo prevent injury, ensure that:\n ▶ Do not make any external modifications to the housing of the \ndevice. Ensure that the system cannot be activated unintentionally.\n ▶ Installation and repair work may be carried out by authorized techni-\ncians only and with the appropriate tools.\n ▶ After an interruption in the power supply or fluidic supply, ensure \nthat the process is restarted in a defined or controlled manner.\n ▶ Do not put any loads on the body.\n ▶ The general rules of technology apply to application planning and \noperation of the device.\n3 BASIC SAFETY INSTRUCTIONS",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 3,
+      "chunk_length": 945,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_004",
+    "text": "▶ Do not put any loads on the body.\n ▶ The general rules of technology apply to application planning and \noperation of the device.\n3 BASIC SAFETY INSTRUCTIONS\nThese safety instructions do not make allowance for any\n• contingencies and events which may arise during the installation, \noperation and maintenance of the devices.\n• local safety regulations - the operator is responsible for observing \nthese regulations, also with reference to the installation personnel.\nDanger - high pressure.\n ▶ Before loosening the pipes and valves, turn off the pressure and \nvent the pipes.\nRisk of electric shock.\n ▶ Before reaching into the device or the equipment, switch off the \npower supply and secure to prevent reactivation.\n ▶ Observe applicable accident prevention and safety regulations for \nelectrical equipment.\nRisk of burns/risk of fire if used for a prolonged switch-on time \nthrough hot device surface.\n ▶ Keep the device away from highly flammable substances and media",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 4,
+      "chunk_length": 972,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_005",
+    "text": "electrical equipment.\nRisk of burns/risk of fire if used for a prolonged switch-on time \nthrough hot device surface.\n ▶ Keep the device away from highly flammable substances and media \nand do not touch with bare hands.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 5,
+      "chunk_length": 226,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_006",
+    "text": "4\n3.1 Warranty\nThe warranty is only valid if the device is used as intended in accordance \nwith the specified application conditions.\n3.2 Information on the internet\nThe operating instructions and data sheets for type 6213 EV / 6281 EV \ncan be found on the internet at:\nwww.buerkert.com  \n Type “6213” or “6281”\n4 TECHNICAL DATA\n4.1 Operating conditions\nThe following values are indicated on the type label:\n• Voltage (Tolerance ± 10 %) / Current type\n• Coil power consumption  \n(active power in W - at operating temperature)\n• Operating pressure\n• Body material: Brass (MS), Stainless steel (VA)\n• Seal material: FKM, EPDM, NBR\nCircuit function:\nA (NC)\n2 (A)\n1 (P)\n2/2-way valve, normally \nclosed\nA (NC)\n2 (A)\n1 (P)\n2/2-way valve, normally \nclosed,  \nwith manual override\nB (NO)\n2 (B)\n1 (P)\n2/2-way valve, normally \nopen\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 6,
+      "chunk_length": 829,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_007",
+    "text": "5\nProtection class:  IP65 with accordance with DIN EN 60529 / IEC \n60529 with cable plug, e. g. Bürkert Type 2508\n4.2 Application conditions\nAmbient temperature:   max. +55  °C\nOperating duration:    Unless otherwise indicated on the type label, \nthe solenoid system is suitable for con-\ntinuous operation\nImportant information for functional reliability during continuous \noperation. \nIf standstill for a long period at least 1-2 activations per day are \nrecommended.\nService life:      High switching frequency and high pressures \nreduce the service life\nPermitted medium temperature depending on coil and seal material:\nCoil body  \nPA/EP1)\nSeal material Medium temperature\nPolyamide PA FKM 0...+90 °C\nEpoxy EP (NA38) FKM 0...+120 °C\nPolyamide PA EPDM -30...+90 °C\nEpoxy EP (NA38) EPDM -30...+100 °C\nPolyamide PA NBR -10...+80 °C\n1)\t Marking\tPA\tand\tEP\tunder\telectric\tconnection\nPermitted media depending on seal material:\nSeal material Permitted media 2)",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 7,
+      "chunk_length": 956,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_008",
+    "text": "Epoxy EP (NA38) EPDM -30...+100 °C\nPolyamide PA NBR -10...+80 °C\n1)\t Marking\tPA\tand\tEP\tunder\telectric\tconnection\nPermitted media depending on seal material:\nSeal material Permitted media 2)\nFKM Per-solutions, hot oils without additives, diesel \nand heating oil without additives, detergent \nsolution\nEPDM Oil and grease-free liquids, cold and warm  \nwater\nNBR Cold and warm water\n2)\t \t\tGaseous\tmedia \tat \tlow \tdifferential \tpressures \t(e.g. \tcompressed \tair \tand \tvacuum)\t\ncan\talso \tbe \tactuated \tin \tconsideration \t(or \tdue \tto \trestriction) \tof \ta \tlower \ttightness.\t\nWe\trecommend \tprior \tclarification \twith \tour \tsales \toffice \tregarding \tthe \tpossible\t\napplication\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 8,
+      "chunk_length": 677,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_009",
+    "text": "6\nThe following values must also be observed for valves with  \nUL/UR approval:\nTemperatures non-hazardous \nfluids (air, water and inert gas)\n-30...+120 °C\n-30...+100 °C  \n(for 6213 EV DN40)\nAmbient Temperature -30...+55 °C\n4.3 Conformity\nIn accordance with the EC Declaration of conformity, the solenoid \nvalve Type 6213 EV / 6281 EV is compliant with the EC Directives  \n(if applicable).\n4.4 Standards\nThe applied standards, which verify conformity with the EC Directives, \ncan be found on the EC Type Examination Certificate and / or the EC \nDeclaration of Conformity (if applicable).\n4.5 Type label (Example)\nType\nCircuit function\nOrifice Seal material\nBody material\nIdentification number Manufacturer code\nVoltage, Frequency,  \nPower consumption\nConnection thread,  \noperating pressure\n6213EV  A 10  EPDM  MS \n \nMade in Germany00221649 W14 LU\n230V        50Hz       8W\nG3/8       P N0 - 10bar\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 9,
+      "chunk_length": 904,
+      "original_page": 6,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_010",
+    "text": "7\n5 INSTALLATION\n5.1 Safety instructions\nDANGER!\nRisk of injury from high pressure in the equipment.\n ▶ Before loosening the pipes and valves, turn off the pressure and \nvent the pipes.\nRisk of injury due to electrical shock.\n ▶ Before reaching into the system, switch off the power supply and \nsecure to prevent reactivation.\n ▶ Observe applicable accident prevention and safety regulations for \nelectrical equipment.\nWARNING!\nRisk of injury from improper installation.\n ▶ Installation may be carried out by authorized technicians only and \nwith the appropriate tools.\nRisk of injury from unintentional activation of the system and an \nuncontrolled restart.\n ▶ Secure system from unintentional activation.\n ▶ Following installation, ensure a controlled restart.\n5.2 Before installation\nInstallation position: any , actuator preferably upwards.\nProcedure:\n →Check pipelines for dirt and clean.\n →Install a dirt filter before the valve inlet (≤ 500 µm).\n5.3 Installation\nNOTE!",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 10,
+      "chunk_length": 975,
+      "original_page": 7,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_011",
+    "text": "Installation position: any , actuator preferably upwards.\nProcedure:\n →Check pipelines for dirt and clean.\n →Install a dirt filter before the valve inlet (≤ 500 µm).\n5.3 Installation\nNOTE!\nCaution risk of breakage.\n ▶ Do not use the coil as a lifting arm.\n →Hold the device with a open-end wrench on the body and screw \ninto the pipeline.\n →Observe direction of flow:  \nThe arrow on the body indicates the direction of flow.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 11,
+      "chunk_length": 432,
+      "original_page": 7,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_012",
+    "text": "8\n5.4 Manual override (optional Type 6281, \nCode HA 17)\nTo control the valve manually, the hand lever under the coil must be turned \ninto the vertical position.\nNOTE! \nCaution.\n ▶ Do not overturn hand lever.\n ▶ When the hand lever is actuated, the valve can no longer be switched \nelectrically. \nOpened position\nClosed position\nHand lever\n5.5 Electrical connection of the cable plug\nWARNING!\nRisk of injury due to electrical shock.\n ▶ Before reaching into the system, switch off the power supply and \nsecure to prevent reactivation.\n ▶ Observe applicable accident prevention and safety regulations for \nelectrical equipment.\nIf the protective conductor contact between the coil and body is \nmissing, there is danger of electrical shock.\n ▶ Always connect protective conductor.\n ▶ Check electrical continuity between coil and body.\nProcedure:\n →Tighten cable plug (for permitted types see data sheet), observing \nmax. torque 1 Nm.\n →Check that seal is fitted correctly.",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 12,
+      "chunk_length": 968,
+      "original_page": 8,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_013",
+    "text": "▶ Check electrical continuity between coil and body.\nProcedure:\n →Tighten cable plug (for permitted types see data sheet), observing \nmax. torque 1 Nm.\n →Check that seal is fitted correctly.\n →Connect protective conductor and check electrical continuity between \ncoil and body.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 13,
+      "chunk_length": 285,
+      "original_page": 8,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_014",
+    "text": "9\nNote the voltage and current type as specified on the type label.\nAuthorized cable plug e.g. Type 2508 \nor other suitable cable plug in accor-\ndance with DIN EN 175301-803 \nForm A\nSeal\nmax. 1 Nm\nPulse version (optional, Code CF 16):\n1 2\n• Valve opens when current pulse min. 50 ms: \n– on Pin 1, + on Pin 2\n• Valve closes when current pulse min. 50 ms: \n+ on Pin 1, – on Pin 2\n6 MAINTENANCE, TROUBLESHOOTING\n6.1 Safety instructions\nWARNING!\nRisk of injury from improper maintenance.\n ▶ Maintenance may be carried out by authorized technicians only and \nwith the appropriate tools.\nRisk of injury from unintentional activation of the system and an \nuncontrolled restart.\n ▶ Secure system from unintentional activation.\n ▶ Following maintenance, ensure a controlled restart.\n6.2 Installation of the coil\nWARNING!\nElectric shock.\n ▶ Before reaching into the system, switch off the power supply and \nsecure to prevent reactivation.",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 14,
+      "chunk_length": 928,
+      "original_page": 9,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_015",
+    "text": "6.2 Installation of the coil\nWARNING!\nElectric shock.\n ▶ Before reaching into the system, switch off the power supply and \nsecure to prevent reactivation.\n ▶ During installation ensure that the coil is situated firmly on the body \ncover so that the protective conductor connection of the coil is con-\nnected to the valve body.\n ▶ Check protective conductor contact after installing the coil.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 15,
+      "chunk_length": 399,
+      "original_page": 9,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_016",
+    "text": "10\nEscaping medium. \nWhen a sticking nut is loosened, medium may escape.\n ▶ Do not tighten sticking nut any further.\nOverheating, risk of fire. \nConnection of the coil without pre-assembled valve will result in \noverheating and destroy the coil.\n ▶ Connect the coil with pre-assembled valve only.\nProcedure:\n →Connect coil body to the core guide pipe.\n →Screw on coil with nut. Observe torque.\nNOTE! \nDevice will be damaged if the wrong tools are used.\nAlways use a wrench to tighten nut. If other tools are used (e.g. pliers), \nthe device may be damaged.\n →Check protective conductor.\nObserve  \ntorque for  \nfastening nut \n(See table) !\nNut\nO-ring\nCore guide pipe\nLocking pin\nTorque for fastening nut:\nCoil type Coil width Torque\nAC10 32 mm resp. 40 mm 5 Nm\nAC19 42 mm 10 Nm\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 16,
+      "chunk_length": 783,
+      "original_page": 10,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_017",
+    "text": "11\n6.3 Malfunctions\nIf malfunctions occur, check whether:\n →the device has been installed according to the instructions,\n →the electrical and fluid connections are correct,\n →the device is not damaged,\n →all screws have been tightened,\n →the voltage and pressure have been switched on,\n →the pipelines are clean.\nValve does not switch\nPossible cause:\n• Short circuit or coil interrupted.\n• Core or core area dirty.\n• Medium pressure outside the permitted pressure range.\nValve does not close\nPossible cause:\n• Internal space of the valve is dirty.\n• Small control bore in the diaphragm blocked.\n• Valve opened by manual control.\n7 SPARE PARTS\nCAUTION!\nRisk of injury and/or damage by the use of incorrect parts.\nIncorrect accessories and unsuitable spare parts may cause injuries \nand damage the device and the surrounding area.\n ▶ Use only original accessories and original spare parts from Bürkert.\n7.1 Ordering spare parts\nReplacement part sets",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 17,
+      "chunk_length": 947,
+      "original_page": 11,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_018",
+    "text": "and damage the device and the surrounding area.\n ▶ Use only original accessories and original spare parts from Bürkert.\n7.1 Ordering spare parts\nReplacement part sets\nWhen ordering replacement part sets, quote the sets SET 1, SET 3 or \nSET 7 and the identification number of the device.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 18,
+      "chunk_length": 294,
+      "original_page": 11,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_019",
+    "text": "12\n7.2 Overview of replacement part sets\nCoil set \nSET 1\nWearing-\nparts set  \nSET 3\n6213 EV\nCoil set \nSET 1\nPlunger tube \nset SET 7\nWearing-\nparts set \nSET 3\n6281 EV\n8 TRANSPORT, STORAGE, DISPOSAL\nNOTE! \nTransport damages.\nInadequately protected equipment may be damaged during \ntransport.\n ▶ During transportation protect the device against wet and dirt in \nshock-resistant packaging. \n ▶ Avoid exceeding or dropping below the allowable storage \ntemperature.\nIncorrect storage may damage the device.\n ▶ Store the device in a dry and dust-free location.\n ▶ Storage temperature:  -40...+80  °C. \nDamage to the environment caused by device components \ncontaminated with media.\n ▶ Observe applicable regulations on disposal and the environment.     \n →Dispose of the device and packaging in an environmentally friendly \nmanner.\nenglish",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 19,
+      "chunk_length": 832,
+      "original_page": 12,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "92e59def_chunk_020",
+    "text": "www.burkert.com\nInternational address \nwww.burkert.com\nManuals and data sheets on the Internet: www.burkert.com \nBedienungsanleitungen und Datenblätter im Internet: www.buerkert.de \nInstructions de service et fiches techniques sur Internet : www.buerkert.fr\n© Bürkert Werke GmbH, 2013  - 2016\nOperating Instructions 1602/06_EU-ML_00805875 / Original DE\nBürkert Fluid Control Systems \nSales Center \nChristian-Bürkert-Str. 13-17 \nD-74653 Ingelfingen \nTel.  + 49 (0) 7940 - 10 91 111 \nFax  + 49 (0) 7940 - 10 91 448 \nE-mail: info@de.buerkert.com",
+    "metadata": {
+      "source": "manual_burkert1.pdf",
+      "chunk_index": 20,
+      "chunk_length": 542,
+      "original_page": 13,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "2393404d_chunk_000",
+    "text": "Bedienungsanleitung \nManuel d‘utilisation\nOperating Instructions\nType 6516 – 6519 \n3/2, 5/2 or 5/3 way solenoid valve\n3/2-, 5/2- bzw. 5/3-Wege-Magnetventil\nÉlectrovanne 3/2, 5/2 ou 5/3 voies",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 0,
+      "chunk_length": 190,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_001",
+    "text": "2\n1 THE OPERATING INSTRUCTIONS\nThe operating instructions contain important information.\n ▶ Read the operating instructions carefully and follow the safety \ninstructions in particular.\n ▶ The operating instructions must be available to every user.\n ▶ The liability and warranty for Type 6516 – 6519 are not applicable if \nthe operating instructions are not followed.\n1.1 Symbols\n ▶ Designates instructions for risk prevention.\n →Designates a procedure which you must carry out.\nWarning of serious or fatal injuries:\nDANGER!\nIn case of imminent danger.\nWARNING!\nIn case of potential danger.\nWarning of minor or \nmoderately severe injuries:\n \nWarning of damage:\nCAUTION! NOTE! \n1.2 Definition of the term \"device\"\nThe term \"device\" used in the instructions always refers to the  \nType 6516 – 6519.\n2 INTENDED USE\nIncorrect use of the solenoid valve Type 6516 – 6519 may be a \nhazard to people, nearby equipment and the surrounding area.",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 1,
+      "chunk_length": 934,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_002",
+    "text": "Type 6516 – 6519.\n2 INTENDED USE\nIncorrect use of the solenoid valve Type 6516 – 6519 may be a \nhazard to people, nearby equipment and the surrounding area. \n ▶ The device is used exclusively as 3/2, 5/2 or 5/3-way solenoid valve \nfor the media permitted according to the data sheet of the corre-\nsponding type.\n ▶ Provided the cable plug is connected and installed correctly,  \ne.g. Bürkert Type 2506 (for Type 6516/6517) or Type 2508  \n(for Type 6518/6519), the device satisfies degree of protection IP65 \nin accordance with DIN EN 60529 / IEC 60529.\n ▶ In a hazardous area, the device may be used only in accordance \nwith the specification on the separate Ex type label. For the use, \nobserve the additional information enclosed with the device with \nsafety instructions for the EX area.\n ▶ Devices without a separate Ex type label may not be used in a \npotentially explosive area.\n ▶ Use according to the authorized data, operating conditions and condi-",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 2,
+      "chunk_length": 957,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_003",
+    "text": "▶ Devices without a separate Ex type label may not be used in a \npotentially explosive area.\n ▶ Use according to the authorized data, operating conditions and condi-\ntions of use specified in the contract documents, the data sheet and \nthe operating instructions.\n ▶ Correct transport, correct storage and installation as well as careful use \nand maintenance are essential for reliable and problem-free operation.\n ▶ Use the device only for its intended purpose.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 3,
+      "chunk_length": 470,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_004",
+    "text": "3\n3 BASIC SAFETY INSTRUCTIONS\nThese safety instructions do not make allowance for any contin-\ngencies and events which may arise during assembly, operation and \nmaintenance.\nDanger – high pressure! \n ▶ Turn off the pressure and vent the lines before loosening lines or \nvalves.\nRisk of electric shock!\n ▶ Before reaching into the device or the equipment, switch off the \npower supply and secure to prevent reactivation!\n ▶ Observe applicable accident prevention and safety regulations for \nelectrical equipment!\nRisk of injury from greatly accelerated device parts!\n ▶ Before pressurizing the valve, check that all screw connections \nand screw joints are tight and secure.\nRisk of burns/danger of fire during long-term operation due to \nhot device surface!\n ▶ Keep the device away from highly flammable substances and \nmedia and do not touch with bare hands.\nRisk of injury due to malfunction of valves with alternating \ncurrent (AC)!",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 4,
+      "chunk_length": 934,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_005",
+    "text": "hot device surface!\n ▶ Keep the device away from highly flammable substances and \nmedia and do not touch with bare hands.\nRisk of injury due to malfunction of valves with alternating \ncurrent (AC)!\nSticking core causes coil to overheat, resulting in a malfunction.\n ▶ Monitor process to ensure flawless functioning.\nTo prevent injuries/damage:\n ▶ Never adjust the screws which are locked with red paint.\n ▶ Do not make any internal or external changes to the device and \nsafeguard against unintentional actuation.\n ▶ Installation and maintenance work may be carried out only by autho-\nrized technicians with the appropriate tools.\n ▶ After an interruption in the electrical or pneumatic supply, ensure \nthat the process is restarted in a defined or controlled manner.\n ▶ Do not subject the housing to mechanical loads.\n ▶ Observe the general accepted technical rules.\n3.1 Restrictions\nIf exporting the device, observe any existing restrictions.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 5,
+      "chunk_length": 952,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_006",
+    "text": "4\n4 STRUCTURE AND FUNCTION\nThe valves can be mounted in blocks on the modular pneumatic base \nrail Type MP07.\n4.1 Structure of the standard designs\n4.1.1 Connections\nAll connections are identified by numbers on the valve surface. These \nrefer to the following functions:\nNumber Function\n1 Pressure inlet port\n2 and 4 Outlet port\n3 and 5 Exhaust port\n12 and 14 Control pressure port\n4.1.2 Type 6516 (3/2-way), Type 6517 (5/2-way)\nCable plug Type 2506\nIndicator pin (see Chap.\"6.5\")\nControl pressure port 14\nOutlet port 2 and 4\nPilot valve Type 6106\nFig. 1: Valve structure Type 6516 / 6517 (in the example Type 6517)\n4.1.3 Type 6518 (3/2-way), Type 6519 (5/2-way)\nCable plug Type 2508\nIndicator pin (see Chap.\"6.5\")\nControl pressure port 14\nOutlet port 2 and 4\nPilot valve Type 6014\nFig. 2: Valve structure Type 6518 / 6519 (in the example Type 6519)\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 6,
+      "chunk_length": 857,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_007",
+    "text": "5\n4.1.4    5/3-way function, 5/2-way function impulse\nPilot valve Type 6014\nPilot valve Type 6014\nExhaust port 5\nPressure inlet port 1\nExhaust port 3\nCable plug Type 2508\nCable plug Type 2508\nFig. 3: Valve structure 5/3-way function, 5/2-way function impulse\n4.1.5 Type 6517 and 6519 with plastic body and \nNAMUR flange with adapter plate\n3/2-way function\n5/2-way function\nAdapter plate\nFig. 4: Valve structure NAMUR in the example Type 6519\nThe valves Type 6517 and 6519 Namur with plug tabs at the side are \nsupplied ex works, 5/2-way function. The 3/2 way function is set by \nturning the adapter plate 180°.\nWhen using as 3/2-way valve, close port 3 with supplied sealing \nplug G1/4. When using on large actuators with fast outlet time, use a \nsilencer instead of the sealing plug.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 7,
+      "chunk_length": 792,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_008",
+    "text": "6\n4.2 Operating principles\nC\n 3/2-way valve\nNormally inlet port 1 (P/NC) closed, outlet port 2 \n(A/OUT) conected with exhaust port 3 (R/NO).\nC (MP07) \n3/2-way valve for vacuum*, with auxiliary \ncontrol air\nNormally inlet port 1 (P/NC) closed, outlet port 2 \n(A/OUT) conected with exhaust port 3 (R/NO).\nD\n 3/2-way valve\nNormally inlet port 1 (P/NO) connected with \noutlet port 2 (B/OUT), exhaust port 3 (R/NC) \nclosed.\nH\n 5/2-way valve\nNormally inlet port 1 (P) connected with outlet \nport 2 (A), outlet port 4 (B) connected with \nexhaust port 5 (S), exhaust port 3 (R) closed.\nZ\n 5/2-way valve\nPulse version (2 coils)\nL\n 5/3-way valve\nMiddle position all port connections closed, \ninlet port 1, outlet port 4 and 2, vent of outlet \nports to 5 respectively 3.\nN\n 5/3-way valve\nMiddle postion pressure inlet port 1 (P) closed, \noutlet ports 2 (A) and 4 (B) connected with \nexhaust ports 3 (R) respectively 5 (S).\n*  The vacuum generator must be connected to port 1.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 8,
+      "chunk_length": 972,
+      "original_page": 6,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_009",
+    "text": "7\n5 TECHNICAL DATA\n5.1 Conformity\nThe solenoid valve Type 6516 – 6519 is compliant with EC directives \nas stated in the EC Declaration of Conformity.\n5.2 Standards\nThe applied standards which are used to demonstrate compliance with \nthe EC Directives are listed in the EC Prototype Examination Certificate \nand/or the EC Declaration of Conformity.\n5.3 Type label\nType\nOperating principle\nOrifice\nIdent. number Manufacturer code\nVoltage, frequency, \noutput\nConnection type, \npermitted pressure range\n \n \nMade in Germany\n6519  H  9.0\nG1/4  PN2–10bar\n230V   50–60Hz 2W\n \n00174395 W1YMG\nExample:\nFig. 5: Example of type label on the pilot-controlled solenoid valve  \nType 6519\n5.4 Operating conditions\nPlease observe the specifications on the data sheet and on the \ntype label.\nTypes 6516 – 6519 Type 6519 for extended \ntemperature range\nAmbient \ntemperature1)\n–25 °C ... +55 °C Aluminum ematalized: \n–40 ... + 80 °C\nStainless steel: \n–30 ... + 80 °C\nPermitted \nmedium temp.\n–10 ... +50 °C –30 ... +80 °C",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 9,
+      "chunk_length": 1000,
+      "original_page": 7,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_010",
+    "text": "temperature range\nAmbient \ntemperature1)\n–25 °C ... +55 °C Aluminum ematalized: \n–40 ... + 80 °C\nStainless steel: \n–30 ... + 80 °C\nPermitted \nmedium temp.\n–10 ... +50 °C –30 ... +80 °C\nCompressed air \nquality\nISO 8573-1:2010, \nClass 7.4.42)\nISO 8573-1:2010, \nClass 7.2.42)\nPermitted \npressure range\nObserve specifications on type label\nPressure difference at least 2 bar between  \nports 1 and 3/5\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 10,
+      "chunk_length": 404,
+      "original_page": 7,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_011",
+    "text": "8\nTypes 6516 – 6519 Type 6519 for extended \ntemperature range\nDegree of \nprotection\n IP65 as per DIN EN 60529 / IEC 60529 with  \ncorrectly connected and fitted cable plug,  \ne.g. Bürkert Type 2506 (Type 6516/6517) or  \nType 2508 (Type 6518/6519)\nPermitted \nmedia\nFiltered compressed air oiled and unoiled, neutral \ngases\nOperating \nduration\nUnless otherwise indicated on the type label, the \nsolenoid system is suitable for continuous operation\nThe following values must also be observed for valves with  \nUL/UR approval: \nValve types Fluid temperature Ambient temperature Fluid\n6518 –10 °C...+55 °C –10 °C...+55 °C Air6519\n1) Observe temperature restrictions on account of approvals.\n2)  To prevent the expanded compressed air from freezing, its pressure dew \npoint must be at least 10 K lower than the medium temperature.\nImportant information for functional reliability during continuous \noperation!\nIf the equipment is switched off for a long period, it is recom-",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 11,
+      "chunk_length": 967,
+      "original_page": 8,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_012",
+    "text": "Important information for functional reliability during continuous \noperation!\nIf the equipment is switched off for a long period, it is recom-\nmended to activate the valves at least 1-2 per day.\nService life: \nHigh switching frequency and high pressures reduce the service life.\nThe valves operate maintenance-free.\n5.5 Materials\nThe seal materials depend on the housing materials:\nHousing \nmaterial \nPA AL \nanodized\nAL \nematalized\nVA\nSeal \nmaterial\nNBR, PUR NBR FKM, NBR PU, NBR, \nFKM\n5.6 External control pressure\nIf valves are designed for auxiliary control air, the compressed air \nsupply must be connected to port 12 or 14 (control pressure port).\nControl pressure:  at least 70 % of the operating pressure to  \nport 1 (minimum control pressure 2.5 bar)\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 12,
+      "chunk_length": 767,
+      "original_page": 8,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_013",
+    "text": "9\n6 ASSEMBLY\n6.1 Safety instructions\nDANGER!\nRisk of injury from high pressure in the system!\n ▶ Turn off the pressure and vent the lines before loosening lines or \nvalves.\nRisk of injury due to electrical shock!\n ▶ Before reaching into the device or the equipment, switch off the \npower supply and secure to prevent reactivation!\n ▶ Observe applicable accident prevention and safety regulations for \nelectrical equipment!\nWARNING!\nRisk of injury from greatly accelerated device parts and uncon-\nnected whiplashing compressed air hoses!\n ▶ Before pressurizing the valve, check that all screw connections \nand screw joints are tight and secure.\nRisk of injury from improper assembly!\n ▶ Assembly may only be carried out by authorized technicians and \nwith the appropriate tools!\nRisk of injury from unintentional activation of the system and \nuncontrolled restart!\n ▶ Secure system against unintentional activation.\n ▶ Following assembly, ensure a controlled restart.",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 13,
+      "chunk_length": 966,
+      "original_page": 9,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_014",
+    "text": "Risk of injury from unintentional activation of the system and \nuncontrolled restart!\n ▶ Secure system against unintentional activation.\n ▶ Following assembly, ensure a controlled restart.\n6.2 Installation of the pilot valve\nWARNING!\nRisk of injury from leaking valve.\n ▶ Ensure that the O-rings/seals are correctly seated in the valve.\nOverheating, risk of fire!\nConnection of the coil without pre-assembled valve will result in \noverheating and destroy the coil.\n ▶ Connect the coil with pre-assembled valve only.\nDanger due to electrical shock if coil incorrectly installed!\n ▶ During installation ensure that the coil is situated firmly on the \nhousing cover so that the protective conductor connection of the \ncoil is connected to the valve housing.\nNOTE! \nCaution risk of breakage!\n• Do not used coil as a lever arm.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 14,
+      "chunk_length": 830,
+      "original_page": 9,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_015",
+    "text": "10\n6.2.1  Installation of the pilot valve Type 6106 (for \nvalve type 6516 / 6517)\n0 = rest position\n1 =  switching \nposition\n →Installation always in the \nposition shown; if required, \nturn coil by 180 °.\n →Screw the housing of the pilot \nvalve to the housing of the \nmain valve using 2 screws. \nObserve tightening torque of \nmax. 0.5 Nm.\n →Mount solenoid coil and \nscrew down using M2 screws. \nObserve tightening torque of \nmax. 0.15 Nm.\n6.2.2 Installation of the pilot valve Type 6014  \n(for valve type 6518 / 6519)\nManual control \n(can be locked \nby pressing and \nturning)\n →Screw the housing of the pilot \nvalve to the main valve.  \nObserve tightening torque of \nmax. 1.5 Nm.\n →Connect the coil to the core \nguide tube.  \nThe coil can be turned  \nby 4 x 90° (for block \nassembly only 2 x 180°). \n →Screw down the coil with \na nut using an open-end \nwrench (the device may be \ndamaged if other tools are \nused, e.g. pliers).  \nObserve tightening torque of \nmax. 5 Nm.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 15,
+      "chunk_length": 978,
+      "original_page": 10,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_016",
+    "text": "11\n6.3 Pneumatic connection\nWARNING!\nRisk of injury from greatly accelerated device parts and uncon-\nnected whiplashing compressed air hoses!\n ▶ Before pressurizing the valve, check that all screw connections \nand screw joints are tight and secure.\nInstallation position: any, preferably with solenoid system face up.\nBefore connecting:\n →Check whether hose lines are dirty and clean.\n →If required, install a dirt filter upstream of the valve inlet (≤ 500 µm).\nPneumatic connection:\n →Hold the device by hand on the housing and connect to the hose \nline. Do not exceed the standard screw-in depth.\n →Seal with PTFE tape or elastomer seal.\n →Observe allocation of the connections  \n(see Chapter \"4.1.1 Connections\", page 4).\n →Align hose lines.\n6.4 Connection of cable plug to the power \nsupply\nWARNING\nRisk of injury due to electrical shock!\n ▶ Before reaching into the system, switch off the electrical power \nsupply and secure to prevent reactivation!",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 16,
+      "chunk_length": 954,
+      "original_page": 11,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_017",
+    "text": "supply\nWARNING\nRisk of injury due to electrical shock!\n ▶ Before reaching into the system, switch off the electrical power \nsupply and secure to prevent reactivation!\n ▶ Observe applicable accident prevention and safety regulations for \nelectrical equipment!\nIf the protective conductor contact between the coil and housing is \nmissing, there is a danger of electric shock!\n ▶ Always connect protective conductor.\n ▶ Check electrical continuity between coil and housing.\nApproved \ncable plug \ne.g. Type 2508 \nor other in accor-\ndance with DIN \nISO 175301-803 \nshape A\nSeal\nObserve max. \ntightening \ntorque!\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 17,
+      "chunk_length": 614,
+      "original_page": 11,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_018",
+    "text": "12\n →Tighten cable plug (for authorized types see data sheet), observing \nmaximum torque (see \"Tab. 1\").\n →Check that seal is fitted correctly.\n →Connect protective conductor and check electrical continuity \nbetween coil and housing (see \"Tab. 2\").\nNOTE! \nIf the cable plug EN 175-301-803 is designed in such a way that \nthe screw is pointing upwards, insert a seal made of a material com-\npatible with your process under the screw head.\nNote the voltage and current type as specified on the type \nlabel.\nValve type 6516/6517 6518/6519\nCable plug Type 2506 2508\nTightening torque  \nmax. (Nm)\n0.3 1\nTab. 1: Maximum tightening torque of cable plug\nPesistor Test voltage Test current\nmax. 0.1 Ω 12 V 1 A\nTab. 2: Test values protective conductor function\n6.5 Pneumatic position indicator\nIndicator pin (red) \nFig. 6: Pneumatic position indicator\nWhen the valve is switched off, the red indicator pin can be pressed \nin without any resistance. When the valve is actuated, the indicator pin",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 18,
+      "chunk_length": 984,
+      "original_page": 12,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_019",
+    "text": "Fig. 6: Pneumatic position indicator\nWhen the valve is switched off, the red indicator pin can be pressed \nin without any resistance. When the valve is actuated, the indicator pin \nmoves out and there is perceptible resistance to pressing it in. \nNOTE! \nWhenever performing a function test, press in the indicator pin again.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 19,
+      "chunk_length": 332,
+      "original_page": 12,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_020",
+    "text": "13\n7 DISASSEMBLY\nDisassembly is in reverse sequence to assembly.\n8 MAINTENANCE, TROUBLESHOOTING\nIf the valve is used according to these operating instructions, the valve \nwill operate maintenance-free.\n8.1 Safety instructions\nWARNING!\nRisk of injury from improper maintenance!\n ▶ Maintenance may only be carried out by authorized technicians \nand with the appropriate tools!\nRisk of injury due to electrical shock!\n ▶ Before reaching into the device or the equipment, switch off the \npower supply and secure to prevent reactivation!\nDanger – high pressure! \n ▶ Turn off the pressure and vent the lines before loosening lines or \nvalves.\nRisk of injury from unintentional activation of the system and \nuncontrolled restart!\n ▶ Secure system against unintentional activation.\n ▶ Following maintenance, ensure a controlled restart.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 20,
+      "chunk_length": 836,
+      "original_page": 13,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_021",
+    "text": "14\n8.2 Malfunctions\nIf malfunctions occur, check whether:\n• the device has been installed according to the instructions,\n• the electrical and pneumatic connections are correct,\n• the device is not damaged,\n• all screws have been tightened,\n• the voltage and pressure have been switched on,\n• the pipelines are clean.\nValve does not switch\nPossible causes:\n• short circuit or coil interrupted,\n• core or core area dirty,\n• medium pressure outside the permitted pressure range.\nValve does not close\nPossible causes:\n• inner compartment of the valve is dirty.\n9 SPARE PARTS\nCAUTION!\nRisk of injury and/or damage by the use of incorrect parts!\nIncorrect accessories and unsuitable spare parts may cause injuries \nand damage the device and the surrounding area.\n ▶ Use original accessories and original spare parts from Bürkert only.\n9.1 Ordering spare parts\nWhen ordering spare parts, quote the number of the spare part set \n(SET 1, SET 2, SET 3 – see \"Fig. 7: Spare part sets\", page 15) as",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 21,
+      "chunk_length": 986,
+      "original_page": 14,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_022",
+    "text": "9.1 Ordering spare parts\nWhen ordering spare parts, quote the number of the spare part set \n(SET 1, SET 2, SET 3 – see \"Fig. 7: Spare part sets\", page 15) as \nwell as the order number of your complete device.\nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 22,
+      "chunk_length": 216,
+      "original_page": 14,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_023",
+    "text": "15\n9.2 Overview of spare part sets\nSET 1 \nPilot valve\nSET 2 \nAdapter \ncomplete\nSET 3 \nPneumatic valve  \nwithout coil\nTypes 6516/6517\nSET 1 \nCoil set\nSET 2 \nFitting\nSET 3 \nPneumatic valve  \nwithout coil\nTypes 6518/6519\nFig. 7: Spare part sets\n10 TRANSPORTATION, STORAGE, \nDISPOSAL\nNOTE! \nTransport damage!\nInadequately protected devices may be damaged during \ntransportation.\n ▶ Protect the device against moisture and dirt in shock-resistant \npackaging during transportation. \n ▶ Prevent the temperature from exceeding or dropping below the \npermitted storage temperature.\n ▶ Protect the electrical interfaces of the coil and the pneumatic  \nconnections from damage by placing protective caps on them. \nIncorrect storage may damage the device.\n ▶ Store the device in a dry and dust-free location!\n ▶ Storage temperature –40 °C ... +80 °C. \nDamage to the environment caused by device components \ncontaminated with media.\n ▶ Dispose of the device and packaging in an environmentally friendly \nmanner!",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 23,
+      "chunk_length": 998,
+      "original_page": 15,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_024",
+    "text": "Damage to the environment caused by device components \ncontaminated with media.\n ▶ Dispose of the device and packaging in an environmentally friendly \nmanner!\n ▶ Observe applicable disposal and environmental regulations.     \nenglish",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 24,
+      "chunk_length": 233,
+      "original_page": 15,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "2393404d_chunk_025",
+    "text": "www.burkert.com\nInternational address \nwww.burkert.com\nManuals and data sheets on the Internet: www.burkert.com \nBedienungsanleitungen und Datenblätter im Internet: www.buerkert.de \nManuels et fiches techniques sur Internet : www.buerkert.fr\n© 2014 – 2023 Bürkert Werke GmbH \nOperating Instructions \n2310/18_EU-ML_00803287 / Original DE\nBürkert Fluid Control Systems \nSales Center \nChristian-Bürkert-Str. 13-17 \nD-74653 Ingelfingen\nTel.  + 49 (0) 7940 - 10 91 111\nFax  + 49 (0) 7940 - 10 91 448\nE-mail: info@de.buerkert.com",
+    "metadata": {
+      "source": "manual_burkert3.pdf",
+      "chunk_index": 25,
+      "chunk_length": 523,
+      "original_page": 16,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  }
+]

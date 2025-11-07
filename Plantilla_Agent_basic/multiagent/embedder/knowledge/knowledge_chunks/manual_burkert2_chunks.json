@@ -1,0 +1,290 @@
+[
+  {
+    "id": "6d6bef6c_chunk_000",
+    "text": "Type 5282\n2/2-Way Solenoid Valve\n2/2-Wege-Magnetventil\nÉlectrovanne à 2/2 voies\nBedienungsanleitung \nManuel d‘utilisation\nOperating Instructions",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 0,
+      "chunk_length": 144,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_001",
+    "text": "2\n1\t OPERATING\tINSTRUCTIONS\nThe operating instructions contain important information.\n▶▶Read▶the ▶operating ▶instructions ▶carefully ▶and ▶follow ▶the ▶safety ▶instruc-\ntions▶in▶particular,▶and▶also▶observe▶the▶operating▶conditions.\n▶▶Operating▶instructions▶must▶be▶available▶to▶each▶user.\n▶▶The▶liability ▶and ▶warranty ▶for ▶the ▶product ▶/ ▶device ▶are ▶void ▶if ▶the ▶operating▶\ninstructions▶are▶not▶followed.\n1.1\t Symbols\n▶▶Designates▶an▶instruction▶to▶prevent▶risks.\n▶→ designates▶a▶procedure▶which▶you▶must▶carry▶out.\nWarning of injuries:\nDANGER!\nImminent▶danger.▶Serious▶or▶fatal▶injuries.\nWARNING!\nPotential▶danger.▶Serious▶or▶fatal▶injuries.\nCAUTION!\nDanger.▶Minor▶or▶moderately▶severe▶injuries.\nWarns of damage to property:\nNOTE! \n2\t AUTHORIZED\tUSE\nNon-authorized use of the solenoid valve type 5282 may be a \nhazard to people, nearby equipment and the environment.\n▶▶The▶device ▶is ▶designed ▶to ▶control, ▶shut ▶off ▶and ▶meter ▶neutral ▶media ▶up▶\nto▶a▶viscosity▶of▶21▶mm2/s.",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 1,
+      "chunk_length": 989,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_002",
+    "text": "hazard to people, nearby equipment and the environment.\n▶▶The▶device ▶is ▶designed ▶to ▶control, ▶shut ▶off ▶and ▶meter ▶neutral ▶media ▶up▶\nto▶a▶viscosity▶of▶21▶mm2/s.\n▶▶Provided▶the ▶cable ▶plug ▶is ▶connected ▶and ▶installed ▶correctly , ▶e.g. ▶Bür-\nkert▶type ▶2508, ▶the ▶device ▶satisfies ▶protection ▶class ▶IP65 ▶in ▶accordance▶\nwith▶DIN▶EN▶60529▶/▶IEC▶60529.\n▶▶During▶use ▶observe ▶the ▶authorized ▶data, ▶the ▶operating ▶conditions ▶and▶\nconditions▶of ▶use ▶specified ▶in ▶the ▶contract ▶documents, ▶on ▶the ▶type ▶label▶\nand▶in ▶the ▶operating ▶instructions, ▶as ▶described ▶in ▶the ▶chapter ▶entitled▶\n“4▶Technical▶data”.\n▶▶Correct▶ transportation, ▶ correct ▶ storage ▶ and ▶installation ▶ and ▶careful▶\nuse▶and ▶maintenance ▶are ▶essential ▶for ▶reliable ▶and ▶faultless ▶operation.\n▶▶Use▶the▶device▶only▶as▶intended.\n2.1\t Restrictions\nIf▶exporting▶the▶device,▶observe▶any▶existing▶restrictions.\n2.2\t Definition\tof\tterm",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 2,
+      "chunk_length": 932,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_003",
+    "text": "▶▶Use▶the▶device▶only▶as▶intended.\n2.1\t Restrictions\nIf▶exporting▶the▶device,▶observe▶any▶existing▶restrictions.\n2.2\t Definition\tof\tterm\nIn▶these ▶operating ▶instructions, ▶the ▶term ▶“device”▶always ▶refers ▶to ▶the ▶T ype▶\n5282.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 3,
+      "chunk_length": 238,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_004",
+    "text": "3\nRisk of injury due to malfunction of valves with alternating current \n(AC).\nSticking▶core▶causes▶coil▶to▶overheat,▶resulting▶in▶a▶malfunction.\n▶▶Monitor▶process▶to▶ensure▶function▶is▶in▶perfect▶working▶order.\nRisk of short-circuit/escape of media through leaking screw \njoints.\n▶▶\nEnsure▶seals▶are▶seated▶correctly.\n▶▶Carefully▶screw▶valve▶and▶connection▶lines▶together.\nGeneral hazardous situations.\nTo▶prevent▶injury,▶ensure▶that:\n▶▶The▶device▶may▶only▶be▶used▶in▶the▶explosion-protected▶area▶if▶an▶\nappropriate▶additional▶identification▶is▶attached▶to▶the▶type▶label.▶\nFor▶use▶observe▶the▶additional▶information▶enclosed▶with▶the▶device▶\ntogether▶with▶safety▶instructions▶for▶the▶explosion▶risk▶area.\n▶▶The▶enclosed▶UL▶instructions▶must▶be▶followed▶in▶the▶UL▶area.\n▶▶Do▶not▶put▶any▶loads▶on▶the▶body▶(e.g.▶by▶placing▶objects▶on▶it▶or▶\nstanding▶on▶it).\n▶▶Do▶not▶make▶any▶external▶modifications▶to▶the▶device▶bodies.▶Do▶not▶\npaint▶the▶body▶parts▶or▶screws.\n3\t BASIC\tSAFETY\tINSTRUCTIONS",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 4,
+      "chunk_length": 988,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_005",
+    "text": "standing▶on▶it).\n▶▶Do▶not▶make▶any▶external▶modifications▶to▶the▶device▶bodies.▶Do▶not▶\npaint▶the▶body▶parts▶or▶screws.\n3\t BASIC\tSAFETY\tINSTRUCTIONS\nThese▶safety▶instructions▶do▶not▶make▶allowance▶for▶any\n•▶contingencies▶and▶events▶which▶may▶arise▶during▶the▶installation,▶ope-\nration▶and▶maintenance▶of▶the▶devices.\n•▶local▶safety ▶regulations ▶- ▶the ▶operator ▶is ▶responsible ▶for ▶observing ▶these▶\nregulations,▶also▶with▶reference▶to▶the▶installation▶personnel.\nDanger - high pressure. \n▶▶Before▶loosening▶the▶pipes▶and▶valves,▶turn▶off▶the▶pressure▶and▶vent▶\nthe▶pipes.\nRisk of electric shock.\n▶▶Before▶reaching▶into▶the▶device▶or▶the▶equipment,▶switch▶off▶the▶\npower▶supply▶and▶secure▶to▶prevent▶reactivation.\n▶▶Observe▶applicable▶accident▶prevention▶and▶safety▶regulations▶for▶\nelectrical▶equipment.\nRisk of burns/risk of fire if used for a prolonged switch-on time \nthrough hot device surface.\n▶▶\nKeep▶the▶device▶away▶from▶highly▶flammable▶substances▶and▶media▶",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 5,
+      "chunk_length": 971,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_006",
+    "text": "electrical▶equipment.\nRisk of burns/risk of fire if used for a prolonged switch-on time \nthrough hot device surface.\n▶▶\nKeep▶the▶device▶away▶from▶highly▶flammable▶substances▶and▶media▶\nand▶do▶not▶touch▶with▶bare▶hands.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 6,
+      "chunk_length": 226,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_007",
+    "text": "4\n▶▶The▶system▶cannot▶be▶activated▶unintentionally.▶\n▶▶Installation▶and▶repair▶work▶may▶be▶carried▶out▶by▶authorized▶technici-\nans▶only▶and▶with▶the▶appropriate▶tools.\n▶▶After▶an▶interruption▶in▶the▶power▶supply▶or▶fluid▶supply,▶ensure▶that▶\nthe▶process▶is▶restarted▶in▶a▶defined▶or▶controlled▶manner.\n▶▶The▶device▶may▶be▶operated▶only▶when▶in▶perfect▶condition▶and▶in▶\nconsideration▶of▶the▶operating▶instructions.\nType▶5282▶was▶developed▶with▶due▶consideration▶given▶to▶\naccepted▶safety▶rules▶and▶is▶state-of-the-art.▶Nevertheless,▶\ndangerous▶situations▶may▶occur.\n3.1\t Warranty\nThe▶warranty ▶is ▶only ▶valid ▶if ▶the ▶device ▶is ▶used ▶as ▶intended ▶in ▶accordance▶\nwith▶the▶specified▶application▶conditions.\n3.2\t Information\ton\tthe\tinternet\nThe▶operating ▶instructions ▶and ▶data ▶sheets ▶for ▶type ▶5282 ▶can ▶be ▶found▶\non▶the▶internet▶at:\nwww.buerkert.com▶▶ ▶Type▶5282\n4\t TECHNICAL\tDATA\n4.1\t Operating\tconditions\nThe▶following▶values*▶are▶indicated▶on▶the▶type▶label:",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 7,
+      "chunk_length": 973,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_008",
+    "text": "on▶the▶internet▶at:\nwww.buerkert.com▶▶ ▶Type▶5282\n4\t TECHNICAL\tDATA\n4.1\t Operating\tconditions\nThe▶following▶values*▶are▶indicated▶on▶the▶type▶label:\n•▶ Voltage▶(tolerance▶±▶10▶%)▶/▶current type\n•▶ Coil power consumption   \n(active▶power▶in▶W▶-▶at▶operating▶temperature)\n•▶ Pressure range\n•▶ Body material  brass▶(MS)▶or▶stainless▶steel▶(VA)\n•▶ Seal material  FKM,▶EPDM,▶NBR▶\n*▶see▶description▶of▶type▶label▶below\nOperating▶principle▶2/2-way▶valve:\nA (NC) B (NO)\n2 (   )\n1 (   )\n2 (B)\n1 (   )\nType▶of▶protection:▶ ▶IP65 ▶ in ▶ accordance ▶ with ▶ DIN ▶ EN ▶ 60529 ▶ / ▶ IEC ▶ 60529▶\nwith▶correctly▶connected▶and▶installed▶device▶socket,▶\ne.g.▶Bürkert▶Type▶2508\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 8,
+      "chunk_length": 667,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_009",
+    "text": "5\n4.2\t Application\tconditions\nAmbient▶temperature:▶ ▶ max. ▶ +55 ▶ °C\nPermitted▶medium▶temperature▶and▶permitted▶media▶depending▶on▶seal▶\nmaterial:\nSeal \nmaterial\nMedium  \ntemperature\nPermitted media\nFKM 0▶°C▶...▶+90▶°C Per-solutions,▶hot▶oils▶without▶additives,▶\ndiesel▶and▶heating▶oil▶without▶additives,▶\ndetergent▶solution\nEPDM -30▶°C▶...▶+90▶°C Oil▶and▶grease-free▶liquids,▶▶\ncold▶and▶hot▶water\nNBR 0▶°C▶...▶+80▶°C Cold▶and▶warm▶water\nOperating duration\nUnless▶otherwise ▶indicated ▶on ▶the ▶type ▶label, ▶the ▶solenoid ▶system ▶is ▶suitable▶\nfor▶continuous▶operation.\nImportant information for functional reliability during conti-\nnuous operation:▶If▶standstill▶for▶a▶long▶period▶at▶least▶1-2▶acti-\nvations▶per▶day▶are▶recommended.\nService life\nHigh▶switching▶frequency▶and▶high▶pressures▶reduce▶the▶service▶life.\n4.3\t Conformity\nType▶5282▶conforms▶with▶the▶EC▶Directives▶according▶to▶the▶EC▶Decla-\nration▶of▶Conformity.\n4.4\t Standards",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 9,
+      "chunk_length": 940,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_010",
+    "text": "High▶switching▶frequency▶and▶high▶pressures▶reduce▶the▶service▶life.\n4.3\t Conformity\nType▶5282▶conforms▶with▶the▶EC▶Directives▶according▶to▶the▶EC▶Decla-\nration▶of▶Conformity.\n4.4\t Standards\nThe▶applied▶standards,▶which▶verify▶conformity▶with▶the▶EC▶Directives,▶\ncan▶be▶found▶on▶the▶EC-Type▶Examination▶Certificate▶and▶/▶or▶the▶EC▶\nDeclaration▶of▶Conformity.\n4.5\t Type\tlabelType▶label\nType\nOperating\n▶\nprinziple\nOrifice\nSeal\n▶\nmaterial\nBody ▶ material\nId.\n▶\nNumber Manufacturer-Code\nVoltage,\n▶\nfrequency,▶▶\npower\n▶\nconsumption\nConnection\n▶\nthread,▶\npressure\n▶\nrange\nExample:\n5282    A 25  EPDM  MS \n \nMade in Germany00134469 W17 LU\n230V      50-60Hz     8W\nG1 1/4   P N   0,2 - 16 bar\nFig. 1: Location and inscription of the type label\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 10,
+      "chunk_length": 743,
+      "original_page": 5,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_011",
+    "text": "6\n5\t INSTALLATION\n5.1\t Safety\tinstructions\nDANGER!\nRisk of injury from high pressure in the equipment.\n▶▶Before▶loosening▶the▶pipes▶and▶valves,▶turn▶off▶the▶pressure▶and▶vent▶\nthe▶pipes.\nRisk of injury due to electrical shock.\n▶▶Before▶reaching▶into▶the▶device▶or▶the▶equipment,▶switch▶off▶the▶\npower▶supply▶and▶secure▶to▶prevent▶reactivation.\n▶▶Observe▶applicable▶accident▶prevention▶and▶safety▶regulations▶for▶\nelectrical▶equipment.\nWARNING!\nRisk of injury from improper installation.\n▶▶Installation▶may▶be▶carried▶out▶by▶authorized▶technicians▶only▶and▶\nwith▶the▶appropriate▶tools.\nRisk of injury from unintentional activation of the system and an \nuncontrolled restart.\n▶▶Secure▶system▶from▶unintentional▶activation.\n▶▶Following▶assembly,▶ensure▶a▶controlled▶restart.\n5.2\t Before\tinstallation\nInstallation position:\nInstallation▶can▶be▶in▶any▶position.▶\nPreferably:▶Actuator▶upright.\n▶→ Prior▶to▶installation▶check▶pipelines▶for▶dirt▶and,▶if▶required,▶clean.",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 11,
+      "chunk_length": 962,
+      "original_page": 6,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_012",
+    "text": "5.2\t Before\tinstallation\nInstallation position:\nInstallation▶can▶be▶in▶any▶position.▶\nPreferably:▶Actuator▶upright.\n▶→ Prior▶to▶installation▶check▶pipelines▶for▶dirt▶and,▶if▶required,▶clean.\nDirt filter: ▶ T o ▶ ensure ▶ that ▶ the ▶ solenoid ▶ valve▶\nfunctions▶reliably , ▶a ▶dirt ▶filter ▶(≤▶500 ▶µm) ▶must ▶be▶\ninstalled▶in▶front▶of▶the▶valve▶inlet.\n5.3\t Installation\n▶→ Hold▶the▶device▶with▶a▶suitable▶tool▶(open-end▶wrench)▶on▶the▶body▶\nand▶screw▶into▶the▶pipeline.\nNOTE! \nCaution risk of breakage.\n•▶ Do▶not▶use▶the▶coil▶as▶a▶lever▶arm.\n▶→ Observe▶direction▶of▶flow:▶\nThe▶arrow▶on▶the▶body▶indicates▶the▶direction▶of▶flow▶(no▶function▶in▶\nopposite▶flow▶direction).\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 12,
+      "chunk_length": 678,
+      "original_page": 6,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_013",
+    "text": "7\n5.4\t Manual\temergency\tactuation\nNOTE!\nCaution!\n•▶ When▶the▶manual▶emergency▶actuation▶is▶locked,▶the▶valve▶can▶no▶\nlonger▶be▶actuated▶electrically.\n1\n2\nPress\nTurn\nManual▶emergency▶\nactuation\nFig. 2: Manual emergency actuation\n5.5\t Changing\tvalve\tfunction\n(not▶possible▶for▶var▶Code▶CF02▶and▶MT50)▶\nmax.▶2.0▶Nm\nPilot\n▶\nvalve\nO-rings\nIdentification\n▶\nfor▶\nthe\n▶\nflow\n▶\ndirection\nFig. 3: Installing the pilot valve (changing valve function)\nDANGER!\nDischarge of medium due to leaking device.\nIf▶the▶O-rings▶are▶forgotten▶or▶incorrectly▶inserted▶during▶installation▶\nof▶the▶pilot▶valve,▶the▶device▶will▶be▶damaged▶and▶medium▶will▶be▶\ndischarged.\n•▶ Before▶screwing▶in▶the▶pilot▶valve,▶correctly▶insert▶O-rings▶into▶the▶\ndepressions.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 13,
+      "chunk_length": 738,
+      "original_page": 7,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_014",
+    "text": "8\nFlow▶direction\nFunction▶NC Function ▶ NO\nFunction NC\nThe\n▶\npilot\n▶\nvalve\n▶\nis\n▶\nins-\ntalled\n▶in\n▶such\n▶a\n▶way\n▶that▶\nthe\n▶\nmanual\n▶\nemergency▶\nactuation\n▶\npoints\n▶\nin\n▶\nthe▶\ndirection\n▶\nopposite\n▶\nto▶\nthe\n▶\ndirection\n▶\nof\n▶\nflow▶\narrow\n.\nFunction NO\nThe\n▶\npilot\n▶\nvalve\n▶\nis\n▶\nins-\ntalled\n▶\nin\n▶\nsuch\n▶\na\n▶\nway▶\nthat\n▶\nthe\n▶\nmanual\n▶\nemer-\ngency\n▶\nactuation\n▶\npoints▶\nin\n▶\nthe\n▶\nsame\n▶\ndirection\n▶\nas▶\nthe\n▶\nidentification\n▶\nfor\n▶\nthe▶\nflow\n▶\ndirection.\nFig. 4: Valve functions (NC/NO)\n5.6\t Setting\tthe\tswitching\ttimes\nThe▶closing ▶and ▶opening ▶times ▶of ▶the ▶valve ▶can ▶be ▶changed ▶if ▶required ▶with▶\nthe▶side▶throttle▶screws.\nNOTE! \nPressure surges caused by liquid media and short closing times.\n•▶ If▶closing▶times▶are▶fairly▶short,▶liquid▶media▶cause▶higher▶pressure▶\nsurges.▶These▶may▶reduce▶the▶service▶life▶of▶the▶diaphragm▶and▶\ndestroy▶other▶devices▶and▶components▶in▶the▶system.\nCAUTION!\nDischarge of medium if the throttle screws are unscrewed too far.\nExtending▶\nclosing\n▶\ntimes",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 14,
+      "chunk_length": 997,
+      "original_page": 8,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_015",
+    "text": "destroy▶other▶devices▶and▶components▶in▶the▶system.\nCAUTION!\nDischarge of medium if the throttle screws are unscrewed too far.\nExtending▶\nclosing\n▶\ntimes\nExtending▶\nopening\n▶\ntimes\nReducing▶\nclosing\n▶\ntimes\nReducing▶\nopening\n▶\ntimes\nFig. 5: Extending /  reducing switching times\nShorten▶closing▶\ntimes▶\nFig. 6: Shorten closing times for DN13 stainless steel\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 15,
+      "chunk_length": 365,
+      "original_page": 8,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_016",
+    "text": "9\n5.7\t Electrical\tconnection\tof\tthe\tcable\tplug\nDANGER!\nRisk of injury due to electrical shock.\n▶▶Before▶reaching▶into▶the▶device▶/▶equipment▶switch▶off▶the▶power▶\nsupply▶and▶secure▶to▶prevent▶reactivation.\n▶▶Observe▶applicable▶accident▶prevention▶and▶safety▶regulations▶for▶\nelectrical▶equipment.\nIf▶the▶protective▶conductor▶is▶not▶connected,▶there▶is▶a▶risk▶of▶electric▶\nshock.\n▶▶Always▶connect▶protective▶conductor▶and▶check▶electrical▶continuity▶\ncoil▶and▶body.\nAuthorized▶cable▶plug▶e.g.▶▶\nT\nype\n▶\n2508\n▶\nor\n▶\nother\n▶\nsuitable\n▶\ncable▶\nplug\n▶\nin\n▶\naccordance\n▶\nwith▶▶\nDIN\n▶\nEN\n▶\n175301-803\n▶\nForm\n▶\nA\nmax.▶1▶Nm\nSeal\nFig. 7: Electrical connection of the cable plug\nNote▶the▶voltage▶and▶current▶type▶as▶specified▶on▶the▶type▶label.\n▶→ Tighten▶cable ▶plug ▶(for ▶permitted ▶types ▶see ▶data ▶sheet) , ▶observing▶\nmax.▶torque▶1▶Nm.\n▶→ Check▶that▶seal▶is▶fitted▶correctly.\n▶→ Connect▶protective ▶conductor ▶and ▶check ▶electrical ▶continuity ▶between▶\ncoil▶and▶body.",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 16,
+      "chunk_length": 965,
+      "original_page": 9,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_017",
+    "text": "max.▶torque▶1▶Nm.\n▶→ Check▶that▶seal▶is▶fitted▶correctly.\n▶→ Connect▶protective ▶conductor ▶and ▶check ▶electrical ▶continuity ▶between▶\ncoil▶and▶body.\n5.7.1\tElectrical\tconnection\t-\tPulse\t(CF\t02)\n2 4 3\n1\nTerminal▶1\n(=)▶∼ \n(+)▶L1\n(–)\n▶\nN\nPE\nTerminal ▶ 2\nTerminal\n▶\n3\nEarth\n▶\nconnector\nFig. 8: Circuit diagram\nThe▶connection▶terminals▶in▶the▶device▶socket▶are▶identified▶with▶\nthe▶numbers▶1▶to▶3▶according▶to▶the▶terminals▶on▶the▶valve.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 17,
+      "chunk_length": 442,
+      "original_page": 9,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_018",
+    "text": "10\nProcedure:\n▶→ Pulse▶valves▶(variable▶code▶CF▶02)▶as▶in▶“Fig.▶8:▶Circuit▶diagram”▶\nconnect.▶Pulse▶to▶Terminal▶1▶closes▶the▶valve;▶pulse▶to▶Terminal▶2▶\nopens▶the▶valve.\n▶→ Connect▶standard▶version▶L1/+▶or▶N/–▶to▶Terminals▶1▶and▶2▶irres-\npective▶of▶the▶polarity.\nNOTE! \nImportant information:\n•▶ Avoid▶emitting▶pulses▶simultaneously▶to▶both▶coil▶windings.\n•▶ Do▶not▶switch▶any▶other▶consumers▶(relays,▶etc.)▶at▶the▶same▶time▶as▶\nthe▶terminals.\n•▶ The▶coil▶connection,▶to▶which▶voltage▶is▶not▶applied,▶must▶be▶galva-\nnically▶isolated▶(open).\n•▶ If▶two▶or▶more▶valves▶are▶switched▶in▶parallel,▶ensure▶that▶this▶requi-\nrement▶is▶met▶by▶using▶2-pole▶or▶multi-pole▶switches.\nElectrical▶connection▶of▶the▶position▶indicator▶(var▶code▶LF02▶or▶\nLF03)▶see▶operating▶instructions▶Type▶1060.\n6\t MAINTENANCE,\t\nTROUBLESHOOTING\n6.1\t Safety\tinstructions\nDANGER!\nRisk of injury from high pressure in the equipment.\n▶▶Before▶loosening▶the▶pipes▶and▶valves,▶turn▶off▶the▶pressure▶and▶vent▶\nthe▶pipes.",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 18,
+      "chunk_length": 982,
+      "original_page": 10,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_019",
+    "text": "TROUBLESHOOTING\n6.1\t Safety\tinstructions\nDANGER!\nRisk of injury from high pressure in the equipment.\n▶▶Before▶loosening▶the▶pipes▶and▶valves,▶turn▶off▶the▶pressure▶and▶vent▶\nthe▶pipes.\nRisk of injury due to electrical shock.\n▶▶Before▶reaching▶into▶the▶device▶or▶the▶equipment,▶switch▶off▶the▶\npower▶supply▶and▶secure▶to▶prevent▶reactivation.\n▶▶Observe▶applicable▶accident▶prevention▶and▶safety▶regulations▶for▶\nelectrical▶equipment.\nWARNING!\nRisk of injury from improper maintenance.\n▶▶Maintenance▶may▶be▶carried▶out▶by▶authorized▶technicians▶only▶and▶\nwith▶the▶appropriate▶tools.\nRisk of injury from unintentional activation of the system and an \nuncontrolled restart.\n▶▶Secure▶system▶from▶unintentional▶activation.\n▶▶Following▶maintenance,▶ensure▶a▶controlled▶restart.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 19,
+      "chunk_length": 778,
+      "original_page": 10,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_020",
+    "text": "11\n6.2\t Malfunctions\nIf▶malfunctions▶occur,▶check▶whether:\n▶→ the▶device▶has▶been▶installed▶according▶to▶the▶instructions,\n▶→ the▶electrical▶and▶fluid▶connections▶are▶correct,\n▶→ the▶device▶is▶not▶damaged,\n▶→ all▶screws▶have▶been▶tightened,\n▶→ the▶voltage▶and▶pressure▶have▶been▶switched▶on,\n▶→ the▶pipelines▶are▶clean.\nMalfunction Possible cause\nValve▶does▶not▶switch Short-circuit▶or▶coil▶interrupted\nMedium▶pressure▶outside▶the▶permitted▶\npressure▶range\nManual▶emergency▶actuation▶locked\nValve▶does▶not▶close Internal▶space▶of▶the▶valve▶is▶dirty\nManual▶emergency▶actuation▶locked\nNOTE! \nExplosion▶protection▶versions▶may▶only▶be▶repaired▶by▶the▶\nmanufacturer.\n7\t SPARE\tPARTS\nCAUTION!\nRisk of injury and/or damage by the use of incorrect parts!\nIncorrect▶accessories▶and▶unsuitable▶spare▶parts▶may▶cause▶injuries▶\nand▶damage▶the▶device▶and▶the▶surrounding▶area.\n•▶ Use▶original▶accessories▶and▶original▶spare▶parts▶from▶Bürkert▶only.\n7.1\t Ordering\tspare\tparts\nReplacement part sets",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 20,
+      "chunk_length": 983,
+      "original_page": 11,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_021",
+    "text": "and▶damage▶the▶device▶and▶the▶surrounding▶area.\n•▶ Use▶original▶accessories▶and▶original▶spare▶parts▶from▶Bürkert▶only.\n7.1\t Ordering\tspare\tparts\nReplacement part sets\nOrder▶the ▶spare-part ▶set ▶SET ▶3 ▶or ▶the ▶pilot ▶control ▶with ▶solenoid ▶coil ▶(com-\nplete)▶by▶quoting▶the▶identification▶number▶of▶the▶device.\n•▶See▶replacement▶part▶sets▶“7.2▶Exploded▶drawing”.\n•▶ The▶identification ▶number ▶of ▶the ▶device ▶can ▶be ▶found ▶on ▶the ▶type ▶label.▶\nSee▶also▶chapter▶“4.5▶Type▶label”.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 21,
+      "chunk_length": 497,
+      "original_page": 11,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_022",
+    "text": "12\n7.2\t Exploded\tdrawing\nPilot▶valve\nSET▶3\n8\t TRANSPORT,\tSTORAGE,\t\nDISPOSAL\nNOTE! \nTransport damages.\nInadequately▶protected▶equipment▶may▶be▶damaged▶during▶transport.\n•▶ During▶transportation▶protect▶the▶device▶against▶wet▶and▶dirt▶in▶\nshock-resistant▶packaging.▶\n•▶ Avoid▶exceeding▶or▶dropping▶below▶the▶allowable▶storage▶\ntemperature.\nIncorrect storage may damage the device.\n•▶ Store▶the▶device▶in▶a▶dry▶and▶dust-free▶location!\n•▶ Storage▶temperature:▶-40▶°C▶...▶+80▶°C▶▶▶▶▶▶▶▶\nDamage to the environment caused by device components  \ncontaminated with media.\n•▶ Observe▶applicable▶regulations▶on▶disposal▶and▶the▶environment.\n•▶ Observe▶national▶waste▶disposal▶regulations.\n▶→ Dispose▶of▶the▶device▶and▶packaging▶in▶an▶environmentally▶friendly▶\nmanner.\nenglish",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 22,
+      "chunk_length": 764,
+      "original_page": 12,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "6d6bef6c_chunk_023",
+    "text": "www.burkert.com\nInternational address \nwww.burkert.com\nManuals▶and▶data▶sheets▶on▶the▶Internet:▶www.burkert.com▶\nBedienungsanleitungen▶und▶Datenblätter▶im▶Internet:▶www.buerkert.de▶\nInstructions▶de▶service▶et▶fiches▶techniques▶sur▶Internet▶:▶www.buerkert.fr\n© Bürkert Werke GmbH, 2015\nOperating Instructions 1512/21_EU-ML_00803322 / Original DE\nBürkert▶Fluid▶Control▶Systems▶\nSales▶Center▶\nChristian-Bürkert-Str.▶13-17▶\nD-74653▶Ingelfingen▶\nTel.▶▶+▶49▶(0)▶7940▶-▶10▶91▶111▶\nFax▶▶+▶49▶(0)▶7940▶-▶10▶91▶448▶\nE-mail:▶info@de.buerkert.com",
+    "metadata": {
+      "source": "manual_burkert2.pdf",
+      "chunk_index": 23,
+      "chunk_length": 534,
+      "original_page": 13,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  }
+]

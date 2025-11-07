@@ -1,0 +1,2 @@
+gemini key: AIzaSyA84pwlvS9QDjLCQq7P_H10GSM2DoMQ9gw
+mongo uri: mongodb+srv://facundo:H6EN4KcYcsPuENWp@cluster.tvofp4y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster

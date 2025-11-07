@@ -1,0 +1,48 @@
+{
+  "processing_method": "langchain_pypdf",
+  "total_documents": 6,
+  "total_chunks": 550,
+  "chunk_config": {
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "separators": [
+      "\n\n",
+      "\n",
+      ". ",
+      " ",
+      ""
+    ]
+  },
+  "documents": {
+    "manual_asco1.pdf": {
+      "chunks_count": 127,
+      "total_characters": 121039,
+      "avg_chunk_size": 953
+    },
+    "manual_asco2.pdf": {
+      "chunks_count": 328,
+      "total_characters": 274111,
+      "avg_chunk_size": 835
+    },
+    "manual_asco3.pdf": {
+      "chunks_count": 24,
+      "total_characters": 20674,
+      "avg_chunk_size": 861
+    },
+    "manual_burkert1.pdf": {
+      "chunks_count": 21,
+      "total_characters": 14961,
+      "avg_chunk_size": 712
+    },
+    "manual_burkert2.pdf": {
+      "chunks_count": 24,
+      "total_characters": 17496,
+      "avg_chunk_size": 729
+    },
+    "manual_burkert3.pdf": {
+      "chunks_count": 26,
+      "total_characters": 19646,
+      "avg_chunk_size": 755
+    }
+  }
+}

@@ -1,0 +1,19 @@
+#Dockerignore para ignorar archivos innecesarios en la imagen Docker y optimizar su tamaño
+
+# Entornos virtuales
+venv/
+
+# Archivos de Python cache
+**/__pycache__/
+
+# Configuracion vscode
+.vscode/
+
+# Documentacion
+README.md
+
+# Archivos de configuracion local
+service.json
+
+# Carpeta embedder completa (procesamiento offline, no necesario en produccion)
+multiagent/embedder/

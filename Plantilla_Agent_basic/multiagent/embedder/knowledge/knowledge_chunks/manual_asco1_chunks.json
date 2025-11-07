@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "e9256bcc_chunk_000",
+    "text": "ASCO Valves®                                                            All Rights Reserved.                                                 I&M V_10004_AA\nE327865 - 06/2023                                                               www.emerson.com/ASCO                                                                Page 1 of 4\n           To reduce the risk of death, serious  \ninjury, or property damage: \n• Personnel installing, maintaining, or operating this \nequipment must  be  qualified  and  follow  these  \ninstructions.  See  also  separate  solenoid  installation  &  \nmaintenance  instructions.  Keep this document.\n• Before installing or maintaining the valve, turn off  \nelectrical power, depressurize valve, extinguish all \nopen flames and avoid any type of sparking or ignition. \nVent hazardous or combustible fluid to a safe area.  \nDESCRIPTION\nSeries 327C valves are 3-way, 2-position (3/2) solenoid valves designed",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 0,
+      "chunk_length": 936,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_001",
+    "text": "open flames and avoid any type of sparking or ignition. \nVent hazardous or combustible fluid to a safe area.  \nDESCRIPTION\nSeries 327C valves are 3-way, 2-position (3/2) solenoid valves designed \nfor general service. Valves are made of stainless steel. Series 327C valves \nare provided with an explosionproof/watertight solenoid.\nNorth American Hazardous Location Approvals (UL, ULC-Division) (If \nmarked on nameplate)\n• Explosionproof Class I, Division 1, Groups B, C, D, T*Tamb*\n• Explosionproof Class II, Division 1, Groups E, F, G, T*Tamb*\n• Enclosure meets Type 4X – Watertight, Types 6 and 6P Submersible\nCanadian Zone Approvals (If marked on nameplate)\nClass I, Zone 1, Group IIB+H2\nClass II, Zone 21, Group IIIC\nEuropean Approvals (ATEX, IECEx) (If marked on nameplate)\n• Ingress Protection IP66, 68\n           II2 G Ex db IIC Gb, T*Tamb*\n            II2 D Ex tb IIIC Db, T*Tamb*\n*See T code table\nIECEx ATEX\nIEC 60079-0:2017 EN IEC 60079-0:2018 / AC: 2020\nIEC 60079-1:2014 EN 60079-1:2014",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 1,
+      "chunk_length": 997,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_002",
+    "text": "II2 G Ex db IIC Gb, T*Tamb*\n            II2 D Ex tb IIIC Db, T*Tamb*\n*See T code table\nIECEx ATEX\nIEC 60079-0:2017 EN IEC 60079-0:2018 / AC: 2020\nIEC 60079-1:2014 EN 60079-1:2014\nIEC 60079-31:2013 EN 60079-31:2014\nArea Classification: ATEX, IECEx, Canadian Zone\nIMPORTANT: Ex db and tb solenoids can be installed in hazardous \nareas zone 1 and zone 2.\nZone 0: Explosive gas-air mixture continuously present or present for \nlonger periods.\nZone 1: Explosive gas-air mixture likely to occur in normal operation.\nZone 2: Explosive gas-air mixture not likely to occur and if it occurs, it \nwill exist only for a short time.\nOPERATION\nTo reduce the risk of ignition of hazardous \natmospheres, disconnect the equipment from the supply \ncircuit before opening. Keep assembly tightly closed when in \noperation.\nNormally Closed: Applies pressure when solenoid is energized. \nSolenoid De-energized: Flow is from Port 2 to Port 1. Port 3 is closed.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 2,
+      "chunk_length": 937,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_003",
+    "text": "operation.\nNormally Closed: Applies pressure when solenoid is energized. \nSolenoid De-energized: Flow is from Port 2 to Port 1. Port 3 is closed. \nSolenoid Energized: Flow is from Port 3 to Port 2. Port 1 is closed. \nNormally Open: Applies pressure when solenoid is de-energized. \nSolenoid De-energized: Flow is from Port 1 to Port 2. Port 3 is closed. \nSolenoid Energized: Flow is from Port 2 to Port 3. Port 1 is closed. \nUniversal \nFor normally closed, normally open, selection or diversion flow. \nPressure can be applied at any port. \nOPERATION OF MANUAL OPERATORS (OPTIONAL)\nManual Operator – Push Type\nThis is a momentary manual operator. When the button is fully depressed, \nthe manual operator will lift the lower seat seal off the seat. This action \nwill enable media to flow from port 3 to port 2 and close media flow from \nport 2 to port 1, without electrically energizing the valve. When the button \nis released, the core spring will automatically return the valve to its de-",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 3,
+      "chunk_length": 987,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_004",
+    "text": "port 2 to port 1, without electrically energizing the valve. When the button \nis released, the core spring will automatically return the valve to its de-\nenergized position. \nManual Operator – Screw Type\nThis is a manually sustained operator. The button must be pushed and \nthen turned clockwise to operate. This action will lift the lower seat seal \noff the seat. Enabling media to flow from port 3 to port 2 and close media \nflow from port 2 to port 1, without electrically energizing the valve. When \nthe button is released, the valve will stay in position. To disengage the \noperator, turn the button anti-clockwise until the operator disengages, and \nthe core spring is able to fully return the valve to its de-energized position.\nFlow Diagrams\nOPERATION DE-ENERGIZED ENERGIZED\nNORMALLY \nCLOSED \nPRESSURE \nAT 3\n \nNORMALLY \nOPEN \nPRESSURE \nAT 1\nUNIVERSAL \nPRESSURE\nAT ANY PORT\nINSTALLATION\nCheck nameplate for correct catalog number, pressure, voltage, frequency,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 4,
+      "chunk_length": 967,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_005",
+    "text": "NORMALLY \nCLOSED \nPRESSURE \nAT 3\n \nNORMALLY \nOPEN \nPRESSURE \nAT 1\nUNIVERSAL \nPRESSURE\nAT ANY PORT\nINSTALLATION\nCheck nameplate for correct catalog number, pressure, voltage, frequency, \nand service. Never apply incompatible fluids or exceed pressure rating of \nthe valve. Installation and valve maintenance to be performed by qualified \npersonnel.  Never apply incompatible fluids or exceed pressure rating of \nthe valve. Contact ASCO or your supplier for more information about \nthis valve or other valve options if this valve is not suitable for your \napplication.\nNOTE: Process-wetted single seal materials per UL122701 are chemically \ncompatible with the process mediums: air/inert gas, water, and “light oil”/\nhydraulic oil.\nFuture Service Considerations\nProvision should be made for performing seat leakage, external leakage, \nand operational tests on the valve with a nonhazardous, noncombustible \nfluid after disassembly and reassembly.  \nTemperature Limitations",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 5,
+      "chunk_length": 970,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_006",
+    "text": "and operational tests on the valve with a nonhazardous, noncombustible \nfluid after disassembly and reassembly.  \nTemperature Limitations\nFor maximum valve ambient and fluid temperatures, refer to chart below. \nCheck nameplate for maximum pressure rating.\nInstallation & Maintenance Instructions \n3-WAY, 2-POSITION DIRECT-ACTING SOLENOID VALVES\nNORMALLY CLOSED, NORMALLY OPEN OR UNIVERSAL OPERATION\n1/4” NPT, RC 1/4”, G 1/4” - 9.5MM ORIFICE - STAINLESS STEEL CONSTRUCTION\nSERIES \n327C\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 6,
+      "chunk_length": 977,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_007",
+    "text": "electrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE)",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 7,
+      "chunk_length": 993,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_008",
+    "text": "8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 8,
+      "chunk_length": 962,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_009",
+    "text": "See separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 9,
+      "chunk_length": 960,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_010",
+    "text": "See Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 10,
+      "chunk_length": 947,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_011",
+    "text": "• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 11,
+      "chunk_length": 976,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_012",
+    "text": "screw terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 12,
+      "chunk_length": 985,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_013",
+    "text": "assembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 13,
+      "chunk_length": 959,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_014",
+    "text": "ambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nPage 2 of 7                                                                                                                    I&M V_6584_VB",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 14,
+      "chunk_length": 947,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_015",
+    "text": "12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nPage 2 of 7                                                                                                                    I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932                                      www.emerson.com\n¹ =  EF, EV data applies to Explosionproof coils only. \n² = Some DC solenoid valves can be operated at maximum ambient \ntemperature of 55 °C / 131 °F with reduced pressure ratings. See \nvalve I&M for maximum operating pressure differential ratings. \n³ = Steam Service Valves have a maximum ambient temperature of 55 ° C \n/ 131 °F. \nPositioning\nThis solenoid is designed to perform properly when mounted in \nany position. However, for optimum life and performance, the \nsolenoid should be mounted vertically and upright to reduce the \npossibility of foreign matter accumulating in the solenoid base \nsub-assembly area.\nWiring\t\nTo reduce the risk of electrocution,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 15,
+      "chunk_length": 972,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_016",
+    "text": "solenoid should be mounted vertically and upright to reduce the \npossibility of foreign matter accumulating in the solenoid base \nsub-assembly area.\nWiring\t\nTo reduce the risk of electrocution, \nfire, or property damage, wiring must comply with local \ncodes and the National Electrical Code.\nPour réduire les risques \nd’électrocution, d’incendie ou de dommages matériels, \nle câblage doit être conforme aux codes locaux et au \nNEC.\nAll solenoids supplied with lead wires are provided with a \ngrounding wire which is green or green with yellow stripes and \na 1/2˝ conduit connection. To facilitate wiring, the solenoid may \nbe rotated 360°. For explosionproof solenoid version, the conduit \nlead wires are factory sealed for use in hazardous locations. On \nsome solenoids, a grounding wire (green or green with yellow \nstripes) is provided.\nWARNING  The solenoid must be grounded with \ngrounding wire (if included) or rigid metallic conduit - \ndo not rely on pipe as ground.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 16,
+      "chunk_length": 973,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_017",
+    "text": "stripes) is provided.\nWARNING  The solenoid must be grounded with \ngrounding wire (if included) or rigid metallic conduit - \ndo not rely on pipe as ground.\nADVERTISSEMENT La bobine doit être mise à la \nterre avec un fil de terre (le cas échéant) ou via un conduit \nmétallique rigide – n’utilisez pas la tuyauterie comme \nmasse.\nCAUTION  Cryogenic Applications - Solenoid lead \nwire insulation should not be subjected to cryogenic \ntemperatures. Adequate lead wire protection and routing \nmust be provided.\nATTENTION Application cryogénique. Les câbles \nélectriques ne doivent pas être soumis à des températures \ncryogéniques. Une protection adequate des cables \nélectriques doit être fournie.\nWARNING\nADVERTISSEMENT\nTemperature Limitations for Series 8003H, 8007H and 8202H  \nSolenoids\nWatt Ratings Maximum Ambient/\nFluid TemperaturePrefix ¹ Coil \nClass\nAC DC60 Hz 50 Hz °C °F\nEF, EV FT 10.1 10.1 - 52 125EF, EV FB 17.1 17.1 -\nFT 10.1 10.1 - 55 131FB 17.1 17.1 -\nHT - - 11.6\n40 ² 104 ²\nHF - - 15.6",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 17,
+      "chunk_length": 997,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_018",
+    "text": "Fluid TemperaturePrefix ¹ Coil \nClass\nAC DC60 Hz 50 Hz °C °F\nEF, EV FT 10.1 10.1 - 52 125EF, EV FB 17.1 17.1 -\nFT 10.1 10.1 - 55 131FB 17.1 17.1 -\nHT - - 11.6\n40 ² 104 ²\nHF - - 15.6\nHB - - 22.6\nEF, EV HT - - 11.6\nEF, EV HF - - 15.6\nEF, EV HB - - 22.6\nHT 10.1 10.1 -\n60 ³ 140 ³ \nHB 17.1 17.1 -\nEF, EV HT 10.1 10.1 -\nEF, EV HB 17.1 17.1 -\nEF, EV HC - - 24.6\nINSTALLATION \nProduct\tVerification\nCheck nameplate for correct catalog number, service, and wattage. \nCheck front of solenoid for voltage and frequency. Never apply \nincompatible fluids or exceed pressure rating of the valve. Contact \nASCO or your supplier for more information about this valve or \nother valve options if this valve is not suitable for your application.\nStrainer\tor\tfilter\trequirement\nTo protect the solenoid valve, install a strainer or filter, suitable \nfor the service involved, in the inlet side as close to the valve as \npossible. Clean periodically depending on service conditions.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 18,
+      "chunk_length": 960,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_019",
+    "text": "for the service involved, in the inlet side as close to the valve as \npossible. Clean periodically depending on service conditions. \nWARNING  Electrical hazard from the accessibility \nof live parts. To prevent the possibility of death, serious \ninjury or property damage, install the open - frame \nsolenoid in an enclosure.\nADVERTISSEMENT Risque d’accès aux parties \nélectriques actives. Afin d’éviter tout risque de mort, \nblessure ou dommage, installer la bobine dans un boitier.\nFOR\tBLACK\tENCLOSURE\tTYPES\t7\tAND\t9\tONLY\t\nCAUTION  To prevent fire or explosion, do not \ninstall solenoid and/or valve where ignition temperature of \nhazardous atmosphere is less than 165 °C. On valves used \nfor steam service or when a class “H” solenoid is used, do not \ninstall in hazardous atmosphere where ignition temperature \nis less than 180 °C. See nameplate/retainer for service. \nATTENTION Afin d’éviter le risque de feu ou \nd’explosion, ne pas installer la bobine ou l’électrovanne",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 19,
+      "chunk_length": 972,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_020",
+    "text": "is less than 180 °C. See nameplate/retainer for service. \nATTENTION Afin d’éviter le risque de feu ou \nd’explosion, ne pas installer la bobine ou l’électrovanne \nou la température d’inflammation en atmosphère \nexplosible est inferieure à 165 °C. Pour les vannes \nvapeur ou lorsqu’une bobine de classe H est utilisée, \nne pas installer en atmosphère explosible lorsque la \ntempérature d’inflammation est inférieure à 180 °C. \nConsulter les conditions d’utilisations sures indiquées \nsur le produit ou dans la notice.\nNOTE: These solenoids have an internal non-resetable thermal \nfuse to  limit solenoid temperature in the event that extraordinary \nconditions occur which could cause excessive temperatures. These \nconditions include high input voltage, a jammed core, excessive \nambient temperature or a shorted solenoid, etc. This unique feature \nis a standard feature only in solenoids with black explosionproof/\ndust-ignitionproof enclosures (Types 7 & 9). \nCAUTION",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 20,
+      "chunk_length": 967,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_021",
+    "text": "ambient temperature or a shorted solenoid, etc. This unique feature \nis a standard feature only in solenoids with black explosionproof/\ndust-ignitionproof enclosures (Types 7 & 9). \nCAUTION\n  To protect the solenoid valve or \noperator, install a strainer or filter, suitable for the \nservice involved in the inlet side as close to the valve \nor operator as possible. Clean periodically depending \non service conditions. See ASCO Series 8600 and \n8601 for strainers.\nATTENTION Afin de protéger l’électrovanne ou \nl’actionneur, installer une crépine ou un filtre adapté \nle plus proche possible en amont de l’électrovanne \nou de l’actionneur. Nettoyer périodiquement le filtre \nen fonction des conditions d’utilisation. Se référer aux \nséries 8600 et 8601 pour les crépines. \n(For 12.0-Watt construction only): These \nsolenoids are provided with a special coil containing \nsolid state components that can be damaged by transient \nvoltages, over voltage, high temperatures or improper \nvalve assembly.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 21,
+      "chunk_length": 998,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_022",
+    "text": "solenoids are provided with a special coil containing \nsolid state components that can be damaged by transient \nvoltages, over voltage, high temperatures or improper \nvalve assembly.\n(Construction 12.0 watts uniquement): \nces électrovannes sont fournies avec une bobine spéciale \ncontenant des composants semi-conducteurs qui peuvent \nêtre endommagés par des tensions transitoires, des \nsurtensions, des températures élevées ou un assemblage \ninapproprié de la vanne. \n1. When establishing the valve’s electrical connections, the \ncircuit that it is being connected to needs to have the proper \nSPD (Surge Protective Device) installed. This is to limit \nthe effects of over voltages and impulse currents caused by \nlightning and switching surges occurring on the power lines. \nFailure to provide this conditioning on the affected circuits can \nlead to either open circuiting or short circuiting of the solenoid \nvalve coil. Information on the proper sizing of SPDs and",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 22,
+      "chunk_length": 968,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_023",
+    "text": "Failure to provide this conditioning on the affected circuits can \nlead to either open circuiting or short circuiting of the solenoid \nvalve coil. Information on the proper sizing of SPDs and \ninstallation requirements can be found in numerous industry \nstandards such as IEC 61643---12, IEEE STD. C62.23, IEEE \nCAUTION\nATTENTION\nI&M V_10004_AA",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 23,
+      "chunk_length": 344,
+      "original_page": 1,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_024",
+    "text": "Page 2 of 4                                                                                                                           I&M V_10004_AA\n                                                                                 www.emerson.com/ASCO  \nPositioning \nThis valve is designed to perform properly when mounted in any position. \nHowever, for optimum life and performance, the solenoid should be \nmounted vertically and upright to reduce the possibility of foreign matter \naccumulating in the solenoid base sub-assembly area. \nMounting \nFor mounting dimensions, refer to Figure 1. \nPiping \nConnect piping to valve according to markings on valve body. Apply pipe \ncompound sparingly to male pipe threads only. If applied to valve threads, \nthe compound may enter the valve and cause operational difficulty. Avoid \npipe strain and valve damage by properly supporting and aligning piping. \nWhen tightening the pipe, do not use valve or solenoid as a lever. Locate",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 24,
+      "chunk_length": 970,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_025",
+    "text": "pipe strain and valve damage by properly supporting and aligning piping. \nWhen tightening the pipe, do not use valve or solenoid as a lever. Locate \nwrenches applied to valve body or piping as close as possible to connection \npoint. To avoid damage to the valve body, DO NOT OVERTIGHTEN \nPIPE CONNECTIONS. If PTFE tape, paste, spray, or similar lubricant is \nused, use extra care when tightening due to reduced friction.\nTemporary Connector\nThe Temporary Connector, if equipped, is an optional part designed to \nreduce the time to test multiple valves. The connector has a standard C6 \nfemale connection (IEC 60320-3 standard) and is prewired to the coil so \nthere is no need to remove the enclosure cover to test valve function. The \nvalve can be tested by connecting a male C5 connector to the Temporary \nConnector. Then, apply the required voltage listed on the Nameplate to \nactuate the valve for test.\nTo prevent the possibility of death, serious",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 25,
+      "chunk_length": 951,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_026",
+    "text": "Connector. Then, apply the required voltage listed on the Nameplate to \nactuate the valve for test.\nTo prevent the possibility of death, serious \ninjury or property damage, the optional Temporary Connector, \nif applicable (see Figure 1), must be removed before final \ninstallation. The Temporary Connector is for testing purposes \nonly and not intended for final use.\nThese solenoid valves are intended for use on \nclean dry air or inert gas as well as, water or light oil (<65CSt). \nThe media should be filtered to 50 micrometer or better. The \ndew point of the media should be at least 10°C (18°F) below the \nminimum temperature to which the media could be exposed, \nto prevent freezing. If lubricated air is used, the lubricant must \nbe compatible with the used elastomers. Instrument air in \ncompliance with ANSI/ISA Standard S7.3 (1975) exceeds the \nabove requirements and is therefore, an acceptable media \nfor these valves. The exhaust port can also be optionally",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 26,
+      "chunk_length": 970,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_027",
+    "text": "compliance with ANSI/ISA Standard S7.3 (1975) exceeds the \nabove requirements and is therefore, an acceptable media \nfor these valves. The exhaust port can also be optionally \nprotected either by means of a filter or with the help of a pipe \nconnection to a central filter system.\nMAINTENANCE\nTo prevent the possibility of death, \nserious injury, or property damage, turn off electrical power, \ndepressurize valve, and vent fluid to a safe area. Delay opening  \nenclosure for 35 minutes before servicing the valve. Solenoid \ncomponents may be hotter than enclosure surface. \nTemperature Ranges\nStandard\n7th Cat No.: 0 or J\nLow Temperature\n7th Cat No. 1 or L\nATEX, IECEx Ambient & \nFluid\n-20°C (-4°F)\nTO\n+90°C (194°F)\n-60°C (-76°F)\nTO\n+60°C (140°F)\nUL, ULc Ambient & \nFluid\n-20°C (-4°F)\nTO\n+84°C (183°F)*\n-60°C (-76°F)\nTO\n+60°C (140°F)\n*T Codes for Surface & Cable Temperature for Standard Temperature Valve\nService Watts Insulation \nClass\nUL/ULc, Division, Canadian Zone ATEX/IECEx",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 27,
+      "chunk_length": 981,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_028",
+    "text": "TO\n+84°C (183°F)*\n-60°C (-76°F)\nTO\n+60°C (140°F)\n*T Codes for Surface & Cable Temperature for Standard Temperature Valve\nService Watts Insulation \nClass\nUL/ULc, Division, Canadian Zone ATEX/IECEx\nTemperature (°C) Temperature (°C)\nSurface Temperature\nAmbient/Fluid\nSurface Temperature\nAmbient/Fluid Cable\nDust Gas Dust Gas\n≤24vDC\n1.9 H T85°C T6 75 T85°C T6 75 80\n1.9 H T100°C T5 84\n1.9 H T100°C T5 90 95\nAll Other \nVoltages\n≤3.6 H T85°C T6 70 T85°C T6 70 80\n≤3.6 H T100°C T5 80 T100°C T5 80 90\n≤3.6 H T135°C T4 90 100\n*T Codes for Surface & Cable Temperature for Low Temperature Valve\nService Watts Insulation \nClass\nUL/ULc, Division, Canadian Zone ATEX/IECEx\nTemperature (°C) Temperature (°C)\nSurface Temperature\nAmbient/Fluid\nSurface Temperature Ambient/\nFluid Cable\nDust Gas Dust Gas\n≤ 24vDC 1.9 H T85°C T6 60 T85°C T6 60 65\nAll Other \nVoltages ≤3.6 H T85°C T6 60 T85°C T6 60 70\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 28,
+      "chunk_length": 997,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_029",
+    "text": "All Other \nVoltages ≤3.6 H T85°C T6 60 T85°C T6 60 70\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 29,
+      "chunk_length": 943,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_030",
+    "text": "d’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 30,
+      "chunk_length": 992,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_031",
+    "text": "ASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 31,
+      "chunk_length": 979,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_032",
+    "text": "Types 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 32,
+      "chunk_length": 951,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_033",
+    "text": "and 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 33,
+      "chunk_length": 942,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_034",
+    "text": "designed to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 34,
+      "chunk_length": 970,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_035",
+    "text": "the core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 35,
+      "chunk_length": 961,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_036",
+    "text": "Approved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 36,
+      "chunk_length": 993,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_037",
+    "text": "10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\n                         To reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified  and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing  or maintaining the valve, turn off \nelectrical power, depressurize valve, extinguish all \nopen flames and avoid any type of sparking or ignition. \nVent hazardous or combustible fluid to a safe area.\nDESCRIPTION",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 37,
+      "chunk_length": 971,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_038",
+    "text": "electrical power, depressurize valve, extinguish all \nopen flames and avoid any type of sparking or ignition. \nVent hazardous or combustible fluid to a safe area.\nDESCRIPTION \nSeries X267554145 valves are 2-way normally closed direct-acting \nsolenoid valves. These valves are designed for cooking oil service.   \nThe guillotine-type disc provides straight through flow, minimizing \npressure drop and turbulence through the valve. X267554145 are \nprovided with a general purpose, watertight solenoid enclosure and \npower consumption of 30.7 watts.\nBase Catalog Number  Voltage Wattage\nX267554145002K3\nX267554145002H2\nX267554145002HF\nX267554145002H8\nX267554145002HE\n208/60\n120/60\n240/60\n230/50\n110/50\n30.7\nVA HOLDING: 100\nVA INRUSH: 250 \nOPERATION \nNormally Closed: Valve is closed when solenoid is de -energized; \nopen when energized.  Valve have three coil duty:\n1. MAX ON TIME 3 MINUTES, MIN OFF TIME 14 MINUTES\n2. MAX ON TIME 12 MINUTES, MIN OFF TIME 2 HOURS \nINSTALLATION\nProduct Verification",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 38,
+      "chunk_length": 995,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_039",
+    "text": "open when energized.  Valve have three coil duty:\n1. MAX ON TIME 3 MINUTES, MIN OFF TIME 14 MINUTES\n2. MAX ON TIME 12 MINUTES, MIN OFF TIME 2 HOURS \nINSTALLATION\nProduct Verification\nCheck nameplate for correct catalog number, pressure, voltage, \nfrequency, and service. Never apply incompatible fluids or exceed \npressure rating of the valve. Installation and valve maintenance to be \nperformed by qualified personnel. Contact ASCO or your supplier \nfor more information about this valve or other valve options if this \nvalve is not suitable for your application.\nFuture Service Considerations \nProvision should be made for  performing  seat leakage, external \nleakage, and operational tests on the valve with a nonhazardous, \nnoncombustible fluid after disassembly and reassembly.\nTemperature Limitations \nFor maximum valve ambient and fluid temperatures, refer to chart \nbelow.  Check catalog number on nameplate to determine maximum \ntemperatures.\nBase Catalog\nNumber\nCoil \nInsulation \nClass",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 39,
+      "chunk_length": 995,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_040",
+    "text": "For maximum valve ambient and fluid temperatures, refer to chart \nbelow.  Check catalog number on nameplate to determine maximum \ntemperatures.\nBase Catalog\nNumber\nCoil \nInsulation \nClass\nAmbient\nTemperature\nFluid\nTemperature\nX267554145002K3\nX267554145002H2\nX267554145002HF\nX267554145002H8\nX267554145002HE\nH\nMin.: 50°F\n(10°C)\nMax.:130°F \n(54.4°C) \nMin.: 65°F \n(18.3°C)\nMax.:380°F \n(193.3°C) \nPositioning \nValve must be mounted with solenoid vertical and upright.\nPiping\nConnect piping or tubing to valve according to markings on valve \nbody. Apply pipe compound sparingly to male pipe threads only. \nIf applied to valve threads, the compound may enter the valve and \ncause operational difficulty. Avoid pipe strain and valve damage by \nproperly supporting and aligning piping. When tightening the pipe, \ndo not use valve or solenoid as a lever. Locate wrenches applied to \nvalve body or piping as close as possible to connection point. To \navoid damage to the valve body, DO NOT OVERTIGHTEN PIPE",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 40,
+      "chunk_length": 995,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_041",
+    "text": "do not use valve or solenoid as a lever. Locate wrenches applied to \nvalve body or piping as close as possible to connection point. To \navoid damage to the valve body, DO NOT OVERTIGHTEN PIPE \nCONNECTIONS. If PTFE tape, paste, spray, or similar lubricant is \nused, use extra care when tightening due to reduced friction.\n       To protect the solenoid valve, install a  \nstrainer or filter, suitable for the service involved in \nthe inlet side as close to the valve as possible. Clean \nperiodically depending on service conditions. See \nASCO Series 8600 and 8601 for strainers. \nMAINTENANCE\n                       To prevent the possibility of death, \nserious injury or property damage, turn off electrical \npower, depressurize valve, and vent fluid to a safe area \nbefore servicing the valve.\nNOTE: It is not necessary to remove the valve from the pipeline for \nrepairs. \nCleaning \nAll solenoid valves should be cleaned periodically.  In general, if",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 41,
+      "chunk_length": 950,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_042",
+    "text": "before servicing the valve.\nNOTE: It is not necessary to remove the valve from the pipeline for \nrepairs. \nCleaning \nAll solenoid valves should be cleaned periodically.  In general, if \nthe voltage to the coil is correct, sluggish valve operation, excessive \nnoise or leakage will indicate that cleaning is required. In the extreme \ncase, faulty valve operation will occur and the valve may fail to open \nor close. Clean strainer or filter when cleaning the valve. \nPreventive Maintenance \n• Keep the medium flowing through the solenoid operator or valve \nas free from dirt and foreign material as possible. \n• Periodic exercise of the valve should be considered if ambient or \nfluid conditions are such that corrosion, elastomer degradation, \nfluid contamination buildup, or other conditions that could impede \nsolenoid valve shifting, are possible. The actual frequency of \nexercise necessary will depend on specific operating conditions.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 42,
+      "chunk_length": 940,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_043",
+    "text": "fluid contamination buildup, or other conditions that could impede \nsolenoid valve shifting, are possible. The actual frequency of \nexercise necessary will depend on specific operating conditions. \nA successful operating history is the best indication of proper \ninterval between exercise cycles. \n• Depending on the medium and service conditions, periodic \ninspection of internal valve parts for damage or excessive wear \nis recommended. Thoroughly clean all parts.  If parts are worn or \ndamaged, install a complete ASCO Rebuild Kit 326501.\nCauses of Improper Operation \n• Incorrect Pressure:  Check valve pressure.  Pressure to valve \nmust be within range specified on nameplate. \n• Excessive Leakage: Disassemble valve and clean all parts. If \nparts are worn or damaged, install a complete ASCO Rebuild Kit\nInstallation of ASCO Rebuild Kit 326501\nValve Disassembly (Refer to Figure 1) \n1. Disassemble valve in an orderly fashion using exploded view \nfor identification and placement of parts.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 43,
+      "chunk_length": 996,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_044",
+    "text": "Installation of ASCO Rebuild Kit 326501\nValve Disassembly (Refer to Figure 1) \n1. Disassemble valve in an orderly fashion using exploded view \nfor identification and placement of parts. \n2. Remove solenoid.  See instructions on Page 3.\n3. Unscrew solenoid base sub-assembly from valve body. \n4. Slip core/disc sub-assembly with core spring from valve body.\nPage 2 of 7 I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932 www.emerson.com\nd’électrocution, d’incendie ou de dommages matériels, \nle câblage doit être conforme aux codes locaux et au \nNEC.\nAll solenoids supplied with lead wires are provided with a \ngrounding wire which is green or green with yellow stripes and \na 1/2˝ conduit connection. To facilitate wiring, the solenoid may \nbe rotated 360°. For explosionproof solenoid version, the conduit \nlead wires are factory sealed for use in hazardous locations. On \nsome solenoids, a grounding wire (green or green with yellow \nstripes) is provided.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 44,
+      "chunk_length": 980,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_045",
+    "text": "lead wires are factory sealed for use in hazardous locations. On \nsome solenoids, a grounding wire (green or green with yellow \nstripes) is provided.\nWARNING  The solenoid must be grounded with \ngrounding wire (if included) or rigid metallic conduit - \ndo not rely on pipe as ground.\nADVERTISSEMENT La bobine doit être mise à la \nterre avec un fil de terre (le cas échéant) ou via un conduit \nmétallique rigide – n’utilisez pas la tuyauterie comme \nmasse.\nCAUTION  Cryogenic Applications - Solenoid lead \nwire insulation should not be subjected to cryogenic \ntemperatures. Adequate lead wire protection and routing \nmust be provided.\nATTENTION Application cryogénique. Les câbles \nélectriques ne doivent pas être soumis à des températures \ncryogéniques. Une protection adequate des cables \nélectriques doit être fournie.\nWARNING\nADVERTISSEMENT\nCAUTION \nATTENTION \n(For 12.0-Watt construction only): These \nsolenoids are provided with a special coil containing",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 45,
+      "chunk_length": 959,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_046",
+    "text": "électriques doit être fournie.\nWARNING\nADVERTISSEMENT\nCAUTION \nATTENTION \n(For 12.0-Watt construction only): These \nsolenoids are provided with a special coil containing \nsolid state components that can be damaged by transient \nvoltages, over voltage, high temperatures or improper \nvalve assembly.\n(Construction 12.0 watts uniquement): \nces électrovannes sont fournies avec une bobine spéciale \ncontenant des composants semi-conducteurs qui peuvent \nêtre endommagés par des tensions transitoires, des \nsurtensions, des températures élevées ou un assemblage \ninapproprié de la vanne. \n1. When establishing the valve’s electrical connections, the\ncircuit that it is being connected to needs to have the proper\nSPD (Surge Protective Device) installed. This is to limit\nthe effects of over voltages and impulse currents caused by\nlightning and switching surges occurring on the power lines.\nFailure to provide this conditioning on the affected circuits can",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 46,
+      "chunk_length": 953,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_047",
+    "text": "the effects of over voltages and impulse currents caused by\nlightning and switching surges occurring on the power lines.\nFailure to provide this conditioning on the affected circuits can\nlead to either open circuiting or short circuiting of the solenoid \nvalve coil. Information on the proper sizing of SPDs and\ninstallation requirements can be found in numerous industry\nstandards such as IEC 61643---12, IEEE STD. C62.23, IEEE\nCAUTION\nATTENTION\nI&M  V_7221_HA\nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, \nWATERTIGHT/EXPLOSIONPROOF SOLENOIDS \nSERIES \n8017G\n8014G\nASCO Valves®    \n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932                                     www.emerson.com    \n \nI&M_V_7221_JA   \nPage 1 of 4\nE317709 - 09/2021                              All Rights Reserved.    \nWARNING   To reduce the risk of death, serious injury, \nor property damage: \n• Personnel installing, maintaining, or operating this",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 47,
+      "chunk_length": 974,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_048",
+    "text": "WARNING   To reduce the risk of death, serious injury, \nor property damage: \n• Personnel installing, maintaining, or operating this \nequipment must be qualified and follow these instructions. \nSee also separate valve  installation  and  maintenance \ninstructions for information on: Operation, Positioning, \nMounting, Cleaning, Preventive Maintenance, Causes of \nImproper Operation, Disassembly and Reassembly of a \nbasic valve. Keep this document.\n• Before installing or maintaining the valve, turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nDESCRIPTION \nSeries 8017G and 8014G are epoxy encapsulated solenoids. The green \nsolenoid with lead wires and 1/2” conduit connection is designed to \nmeet Enclosure Types 1 - General Purpose, Type 2-Dripproof, Types 3 \nand 3S-Raintight, and Types 4 and 4X-Watertight. The black solenoid on",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 48,
+      "chunk_length": 958,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_049",
+    "text": "meet Enclosure Types 1 - General Purpose, Type 2-Dripproof, Types 3 \nand 3S-Raintight, and Types 4 and 4X-Watertight. The black solenoid on \ncatalog numbers prefixed “EF” is designed to meet Enclosure Types 3 and \n3S-Raintight, Types 4 and 4X-Watertight, Types 6 and 6P-Submersible, \nType 7 (A, B, C & D) Explosion proof Class I, Division1 Groups A, B, C, \n& D and Type 9 (E & F) -Dust-Ignition proof Class II, Division1 Groups E \n& F. See Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When Series 8017G is installed just as a \nsolenoid and not attached to an ASCO valve, the core has a 0.250-28UNF-\n2B tapped hole, 0.38 minimum full thread.\nCatalog numbers 8017G1 and 8017G2 are pull type direct-acting \nsolenoids, while Catalog Nos. 8014G1 and 8014G2 are push type reverse-\nacting solenoids.\nGeneral purpose solenoids (green) are available in open-frame \nconstruction. This construction may be supplied with 1/4” spade, screw or",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 49,
+      "chunk_length": 981,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_050",
+    "text": "acting solenoids.\nGeneral purpose solenoids (green) are available in open-frame \nconstruction. This construction may be supplied with 1/4” spade, screw or \nDIN terminals (Refer to Figure 2).\nOptional Features for Type 1 - General Purpose Construction \nOnly\n• Junction Box: This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or screw \nterminals may have a junction box. The junction box provides a \n1/2˝ conduit connection, grounding and spade or screw terminal \nconnections within the junction box (See Figure 3). \n• DIN Plug Connector Kit No. K236034: Use this kit only for \nsolenoids with DIN terminals. The DIN plug connector kit provides a \ntwo pole with grounding contact DIN Type 43650 construction (See \nFigure 4). \nNOTE: For China RoHS Hazardous Substances table,\nplease go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nOPERATION \nSeries 8017G - When the solenoid is energized, the core is drawn into the",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 50,
+      "chunk_length": 989,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_051",
+    "text": "please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nOPERATION \nSeries 8017G - When the solenoid is energized, the core is drawn into the \nsolenoid base sub-assembly. IMPORTANT: When the solenoid is de-\nenergized, the initial return force for the core, whether developed by \nspring, pressure, or weight, must exert a minimum force to overcome \nresidual magnetism created by the solenoid. Minimum return force 1 \npound, 12 ounces. \nSeries 8014G -  When the solenoid is energized, the disc holder \nassembly seats against the orifice. IMPORTANT: Initial return force \nfor the disc or disc holder assembly, whether developed by spring, \npressure, or weight, must exert a minimum force to overcome \nresidual magnetism created by the solenoid. Minimum return force \nis 1 pound, 12 ounces. When the solenoid is de-energized, the disc \nholder assembly returns. \nINSTALLATION\nProduct Verification \nCheck nameplate for correct catalog number, service, and wattage. Check",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 51,
+      "chunk_length": 985,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_052",
+    "text": "holder assembly returns. \nINSTALLATION\nProduct Verification \nCheck nameplate for correct catalog number, service, and wattage. Check \nfront of solenoid for voltage and frequency. \nWARNING  Electrical hazard from the accessibility \nof live parts. To prevent the possibility of death, serious \ninjury or property damage, install the open - frame solenoid \nin an enclosure.\nFOR BLACK ENCLOSURE TYPES 7 AND 9 ONLY\nWARNING  To prevent fire or explosion, do not \ninstall solenoid and/or valve where ignition temperature of \nhazardous atmosphere is less than 180 °C. \nNOTE: These solenoids have an internal non-resetable thermal fuse to \nlimit solenoid temperature in the event that extraordinary conditions occur \nwhich could cause excessive temperatures. These conditions include high \ninput voltage, a jammed core, excessive ambient temperature or a shorted \nsolenoid, etc. This unique feature is standard on solenoids with black \nexplosionproof/dust-ignitionproof enclosures (Types 7 & 9).",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 52,
+      "chunk_length": 986,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_053",
+    "text": "solenoid, etc. This unique feature is standard on solenoids with black \nexplosionproof/dust-ignitionproof enclosures (Types 7 & 9). \nStrainer or Filter Requirement\nTo protect the solenoid valve or operator, install a strainer \nor filter, suitable for the service involved in the inlet side as close to the \nvalve or operator as possible. Clean periodically depending on service \nconditions. See ASCO Series 8600 and 8601 for strainers.\nTemperature Limitations \nFor maximum valve ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum ambient \ntemperature. See valve installation and maintenance instructions for \nmaximum fluid temperature. \nNOTE: For steam service, refer to Wiring section, Junction Box for \ntemperature rating of supply wires.\nTemperature Limitations For Series 8017G or 8014G Solenoids for",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 53,
+      "chunk_length": 988,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_054",
+    "text": "maximum fluid temperature. \nNOTE: For steam service, refer to Wiring section, Junction Box for \ntemperature rating of supply wires.\nTemperature Limitations For Series 8017G or 8014G Solenoids for \nuse on Valves Rated at 16.1 or 20.1 Watts\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum §\nAmbient Temp.\n16.1 None, KF, KP, SD, SF \n& SP F 125 °F (52 °C)\n20.1 FB, KF, KP,\nSD, SF & SP F 104 °F (40 °C)\n16.1 None, KB, KH,\nSS, ST & SU H\n140 °F (60 °C)\n125 °F (52 °C) For \nSteam Service\n20.1 HB, KH,\nSS, ST, SU & SV H\n140 °F (60 °C)\nNot for Steam Service\n§ Minimum ambient temperature -40 °F (-40 °C).  \nPositioning \nThis solenoid is designed to perform properly when mounted in any \nposition. However, for optimum life and performance, the solenoid should \nbe mounted vertically and upright to reduce the possibility of foreign \nmatter accumulating in the solenoid base sub-assembly area.\nNOTICE\nPage 2 of 7 I&M V_6584_VB",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 54,
+      "chunk_length": 934,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_055",
+    "text": "be mounted vertically and upright to reduce the possibility of foreign \nmatter accumulating in the solenoid base sub-assembly area.\nNOTICE\nPage 2 of 7 I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932 www.emerson.com\nd’électrocution, d’incendie ou de dommages matériels, \nle câblage doit être conforme aux codes locaux et au \nNEC.\nAll solenoids supplied with lead wires are provided with a \ngrounding wire which is green or green with yellow stripes and \na 1/2˝ conduit connection. To facilitate wiring, the solenoid may \nbe rotated 360°. For explosionproof solenoid version, the conduit \nlead wires are factory sealed for use in hazardous locations. On \nsome solenoids, a grounding wire (green or green with yellow \nstripes) is provided.\nWARNING  The solenoid must be grounded with \ngrounding wire (if included) or rigid metallic conduit - \ndo not rely on pipe as ground.\nADVERTISSEMENT La bobine doit être mise à la",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 55,
+      "chunk_length": 941,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_056",
+    "text": "WARNING  The solenoid must be grounded with \ngrounding wire (if included) or rigid metallic conduit - \ndo not rely on pipe as ground.\nADVERTISSEMENT La bobine doit être mise à la \nterre avec un fil de terre (le cas échéant) ou via un conduit \nmétallique rigide – n’utilisez pas la tuyauterie comme \nmasse.\nCAUTION  Cryogenic Applications - Solenoid lead \nwire insulation should not be subjected to cryogenic \ntemperatures. Adequate lead wire protection and routing \nmust be provided.\nATTENTION Application cryogénique. Les câbles \nélectriques ne doivent pas être soumis à des températures \ncryogéniques. Une protection adequate des cables \nélectriques doit être fournie.\nWARNING\nADVERTISSEMENT\nCAUTION \nATTENTION \n(For 12.0-Watt construction only): These \nsolenoids are provided with a special coil containing \nsolid state components that can be damaged by transient \nvoltages, over voltage, high temperatures or improper \nvalve assembly.\n(Construction 12.0 watts uniquement):",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 56,
+      "chunk_length": 976,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_057",
+    "text": "solid state components that can be damaged by transient \nvoltages, over voltage, high temperatures or improper \nvalve assembly.\n(Construction 12.0 watts uniquement): \nces électrovannes sont fournies avec une bobine spéciale \ncontenant des composants semi-conducteurs qui peuvent \nêtre endommagés par des tensions transitoires, des \nsurtensions, des températures élevées ou un assemblage \ninapproprié de la vanne. \n1. When establishing the valve’s electrical connections, the\ncircuit that it is being connected to needs to have the proper\nSPD (Surge Protective Device) installed. This is to limit\nthe effects of over voltages and impulse currents caused by\nlightning and switching surges occurring on the power lines.\nFailure to provide this conditioning on the affected circuits can\nlead to either open circuiting or short circuiting of the solenoid \nvalve coil. Information on the proper sizing of SPDs and\ninstallation requirements can be found in numerous industry",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 57,
+      "chunk_length": 967,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_058",
+    "text": "lead to either open circuiting or short circuiting of the solenoid \nvalve coil. Information on the proper sizing of SPDs and\ninstallation requirements can be found in numerous industry\nstandards such as IEC 61643---12, IEEE STD. C62.23, IEEE\nCAUTION\nATTENTION\nASCO Valves®                      E321849 - 02/2022                        All Rights Reserved.                     I&M V_9988_AB\n ©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932                      www.emerson.com                              Page 1 of 3\nI&M V_9988_AB\nInstallation & Maintenance Instructions \n2-WAY DIRECT-ACTING SOLENOID VALVES \nNORMALLY CLOSED INTERMITTENT OPERATION —  3/4” NPT \nCOOKING OIL SERVICE\nSERIES \nX267554145\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 58,
+      "chunk_length": 983,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_059",
+    "text": "this equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 59,
+      "chunk_length": 996,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_060",
+    "text": "flammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 60,
+      "chunk_length": 958,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_061",
+    "text": "the solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 61,
+      "chunk_length": 990,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_062",
+    "text": "Division1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in:",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 62,
+      "chunk_length": 957,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_063",
+    "text": "solenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 63,
+      "chunk_length": 998,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_064",
+    "text": "Types 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 64,
+      "chunk_length": 998,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_065",
+    "text": "magnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 65,
+      "chunk_length": 977,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_066",
+    "text": "temperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 66,
+      "chunk_length": 999,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_067",
+    "text": "11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\n                                              *1.9W version only. All other wattages, 80°C (176°F).\nIMPORTANT: When relying on single seal certification for UL 122701: Requirements for Process Sealing Between Electrical Systems \nand Flammable or Combustible Process Fluids, the ambient/fluid temperature is limited to -54°C (-65°F) for Low Temperature versions.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 67,
+      "chunk_length": 532,
+      "original_page": 2,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_068",
+    "text": "Page 3 of 4                                                                                                                           I&M V_10004_AA\n                                                                                 www.emerson.com/ASCO  \nCleaning\nAll solenoid valves should be cleaned periodically. The time between \ncleaning will vary depending on the medium and service conditions. In \ngeneral, if the voltage to the coil is correct, sluggish valve operation, \nexcessive noise or leakage will indicate that cleaning is required. In the \nextreme case, faulty valve operation will occur and the valve may fail to \nshift. Clean strainer or filter when cleaning the valve.\nPreventive Maintenance\n• Keep the media flowing through the valve as free from dirt and \nforeign material as possible.\n• While in service, the valve should be operated at least once a month \nto insure proper shifting.\n• Depending on the media and service conditions, periodic inspection",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 68,
+      "chunk_length": 972,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_069",
+    "text": "foreign material as possible.\n• While in service, the valve should be operated at least once a month \nto insure proper shifting.\n• Depending on the media and service conditions, periodic inspection \nof internal valve parts for damage or excessive wear is recommended. \nThoroughly clean all parts. If parts are worn or damaged, install a \ncomplete ASCO Rebuild Kit.\nCauses of Improper Operation\n• Incorrect Pressure: Check valve pressure. Pressure to valve must be \nwithin range specified on nameplate.\n• Excessive Leakage: Disassemble valve and clean all parts. If parts \nare worn or damaged, install a complete ASCO Rebuild Kit.\n• Incorrect Voltage: Check supply voltage. V oltage must be at least \n85% of rated voltage.\n• Burned-Out Solenoid: Check for open-circuited solenoid. Replace \nif necessary. Check supply voltage. It must be the same as specified \non nameplate.\nWhen disassembling or re-assembling \nthe valve, the utmost care should be taken to avoid any",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 69,
+      "chunk_length": 965,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_070",
+    "text": "if necessary. Check supply voltage. It must be the same as specified \non nameplate.\nWhen disassembling or re-assembling \nthe valve, the utmost care should be taken to avoid any \ndamage to the enclosure-body connection bore, body-\nenclosure mounting shaft, enclosure cover threads or SBSA \nthreads. These joints constitute the critical flame paths of the \nflameproof solenoid. The flameproof joints are not intended to \nbe repaired. Do not paint these surfaces.\nValve Disassembly\n1. Turn off power.\n2. See “Solenoid Disassembly” section.\n3. Remove solenoid base sub-assembly (36mm extra deep socket \nrequired with at least 72mm bolt clearance).\n4. Remove Enclosure Housing.\n5. Remove Core sub-assembly.\n6. All Parts are now accessible for cleaning or replacement. If parts are \nworn or damaged, install a complete ASCO Rebuild Kit.\nValve Reassembly\n1. Lubricate all gaskets with MOLYKOTE® 55.\n2. Install Core sub-assembly.\n3. Install Solenoid base gasket.\n4. Install Core Spring.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 70,
+      "chunk_length": 978,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_071",
+    "text": "Valve Reassembly\n1. Lubricate all gaskets with MOLYKOTE® 55.\n2. Install Core sub-assembly.\n3. Install Solenoid base gasket.\n4. Install Core Spring.\n5. Install Enclosure Housing.\n6. Screw in Solenoid base sub-assembly, see Torque chart (36mm extra \ndeep socket required).\n7. See “Solenoid Reassembly” section.\nSolenoid Disassembly\n1. Turn off power.\n2. Remove Enclosure Cover.\n3. Disconnect wires to solenoid.\n4. Disassemble solenoid using exploded view in Figure 1 for \nidentification and placement of parts.\n5. Remove Terminal Block, Retaining Ring and Retaining Plate.\n6. Remove Solenoid / Coil Assembly.\nSolenoid Reassembly\n1. Slide Solenoid assembly over Solenoid base sub-assembly.\n2. Install Retaining Plate.\n3. Install Retaining Ring.\n4. Install Terminal Block.\n5. Connect field wiring to Terminal Block.\n6. Install Enclosure Cover.\nWIRING\nTo reduce the risk of electrocution, fire, or \nproperty damage, wiring must comply with local codes and \nthe National Electrical Codes (as applicable).",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 71,
+      "chunk_length": 998,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_072",
+    "text": "6. Install Enclosure Cover.\nWIRING\nTo reduce the risk of electrocution, fire, or \nproperty damage, wiring must comply with local codes and \nthe National Electrical Codes (as applicable).\nSolenoids are provided standard with either a 1/2” NPT conduit hub or \nM20 x 1.5 cable gland connection. The coil is not polarity sensitive. To \nfacilitate wiring, the solenoid may be rotated 360 0. To rotate solenoid, \nloosen bottom housing set screw. To lock rotation, tighten bottom housing \nset screw. An internal ground connection is provided on the retaining \nplate and an external ground connection is provided on the exterior of the \nhousing below the conduit opening.\nInternal ground connector accepts 18 -22AWG or equivalent wire size \nand must be crimped. Terminal Block may be removed from assembly to \nfacilitate wiring. \nWhen installing Terminal Block, supply \nwires must face center of valve assembly, not enclosure \nwall. See detailed view in Figure 1 for correct positioning of \nTerminal Block.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 72,
+      "chunk_length": 998,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_073",
+    "text": "facilitate wiring. \nWhen installing Terminal Block, supply \nwires must face center of valve assembly, not enclosure \nwall. See detailed view in Figure 1 for correct positioning of \nTerminal Block.\nFor North American wiring applications: \nmust use supply wires suitable for at least 90°C.\nThe solenoid must be grounded with \ngrounding wire or rigid metallic conduit - do not rely on pipe \nas ground.\nTo reduce the risk of ignition of hazardous \natmospheres, conduit runs must have a sealing fitting \nconnected within 18 inches of the enclosure.\nSPECIAL CONDITIONS FOR SAFE USE\n• For Painted Aluminum Models: The device is a potential electrostatic \ncharging hazard. Clean with a damp cloth before servicing to avoid \nelectrostatic discharge.\n• Do not repair flameproof joints.\nORDERING INFORMATION \nFOR ASCO REBUILD KITS \nParts marked with an asterisk (*) in the exploded view are supplied in \nRebuild Kits. When Ordering Rebuild Kits for ASCO valves, order the",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 73,
+      "chunk_length": 960,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_074",
+    "text": "ORDERING INFORMATION \nFOR ASCO REBUILD KITS \nParts marked with an asterisk (*) in the exploded view are supplied in \nRebuild Kits. When Ordering Rebuild Kits for ASCO valves, order the \nRebuild Kit number stamped on the valve nameplate. If the number of \nthe kit is not visible, order by indicating the number of kits required, and \nthe Catalog Number and Serial Number of the valve(s) for which they are \nintended.  \nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 74,
+      "chunk_length": 992,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_075",
+    "text": "flames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 75,
+      "chunk_length": 953,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_076",
+    "text": "Installation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 76,
+      "chunk_length": 945,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_077",
+    "text": "See separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 77,
+      "chunk_length": 960,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_078",
+    "text": "See Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 78,
+      "chunk_length": 947,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_079",
+    "text": "• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 79,
+      "chunk_length": 976,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_080",
+    "text": "screw terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 80,
+      "chunk_length": 985,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_081",
+    "text": "assembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 81,
+      "chunk_length": 959,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_082",
+    "text": "ambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 82,
+      "chunk_length": 974,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_083",
+    "text": "VT, ZT F 131 °F (55 °C)\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 83,
+      "chunk_length": 970,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_084",
+    "text": "séparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 84,
+      "chunk_length": 935,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_085",
+    "text": "ASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 85,
+      "chunk_length": 979,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_086",
+    "text": "Types 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 86,
+      "chunk_length": 951,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_087",
+    "text": "and 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 87,
+      "chunk_length": 942,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_088",
+    "text": "designed to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 88,
+      "chunk_length": 970,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_089",
+    "text": "the core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 89,
+      "chunk_length": 961,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_090",
+    "text": "Approved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 90,
+      "chunk_length": 993,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_091",
+    "text": "10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 91,
+      "chunk_length": 962,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_092",
+    "text": "electrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE)",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 92,
+      "chunk_length": 993,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_093",
+    "text": "8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 93,
+      "chunk_length": 962,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_094",
+    "text": "See separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 94,
+      "chunk_length": 960,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_095",
+    "text": "See Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 95,
+      "chunk_length": 947,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_096",
+    "text": "• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 96,
+      "chunk_length": 976,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_097",
+    "text": "screw terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 97,
+      "chunk_length": 985,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_098",
+    "text": "assembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 98,
+      "chunk_length": 959,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_099",
+    "text": "ambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 99,
+      "chunk_length": 974,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_100",
+    "text": "VT, ZT F 131 °F (55 °C)\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 100,
+      "chunk_length": 970,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_101",
+    "text": "séparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 101,
+      "chunk_length": 935,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_102",
+    "text": "ASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 102,
+      "chunk_length": 979,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_103",
+    "text": "Types 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 103,
+      "chunk_length": 951,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_104",
+    "text": "and 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 104,
+      "chunk_length": 942,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_105",
+    "text": "designed to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 105,
+      "chunk_length": 970,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_106",
+    "text": "the core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 106,
+      "chunk_length": 961,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_107",
+    "text": "Approved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 107,
+      "chunk_length": 993,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_108",
+    "text": "10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nTo reduce the risk of death, serious \ninjury, or property damage: \n• Personnel installing, maintaining, or operating \nthis equipment must be qualified and follow these \ninstructions. See also separate solenoid installation & \nmaintenance instructions. Keep this document.\n• Before installing or maintaining the valve , turn off  \nelectrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 108,
+      "chunk_length": 962,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_109",
+    "text": "electrical power, depressurize valve, extinguish all open \nflames and avoid any type of sparking or ignition. Vent \nhazardous or combustible fluid to a safe area.\nPour réduire les risques de \ndécès, de blessures graves ou de dommages matériels:\n• Le personnel qui installe, entretient ou exploite cet \néquipement doit être qualifié et suivre les instructions \nqui s’y rapportent. On suivra aussi les instructions \nd’installation et de maintenance de la bobine délivrées \nséparément. Gardez ce document.\n• Avant d’installer ou d’intervenir sur la vanne, couper \nle courant, dépressuriser la vanne, éteindre toutes les \nflammes nues et éviter tout type d’étincelle ou d’ignition. \nÉvacuer les liquides dangereux ou combustibles vers \nun endroit sûr.\nWARNING\nADVERTISSEMENT\nI&M V_6584_VB\nSERIES \n8003G/H \n8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE)",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 109,
+      "chunk_length": 993,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_110",
+    "text": "8007G/H\n8202G/H \nInstallation & Maintenance Instructions  \nASCO RED-HAT II OPEN-FRAME, GENERAL PURPOSE, WATERTIGHT/EXPLOSION \nPROOF SOLENOIDS OPTIONAL FEATURE FOR OPEN FRAME (GENERAL PURPOSE) \nCONSTRUCTION ONLY\nASCO Valves®   E303145 - 03/2020  All Rights Reserved.                                I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932  www.emerson.com  Page 1 of 7\n— SERVICE NOTICE — \nASCO®  solenoid valves with design change letter “G” or “H” \nin the catalog number (ex. 8210G1) have an epoxy encapsulated \nASCO™ Red Hat II ™ solenoid. This solenoid replaces some of \nthe solenoids with metal enclosures and open-frame constructions. \nFollow these installation and maintenance instructions if your \nvalve or operator uses this solenoid. \nSee separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 110,
+      "chunk_length": 962,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_111",
+    "text": "See separate instructions for basic valve.  \nDESCRIPTION \nCatalog numbers 8003G/H, 8007G/H and 8202G/H and are epoxy \nencapsulated pull-type solenoids. The green solenoid with lead wires \nand 1/2 conduit connection is designed to meet Enclosure Type \n1-General Purpose, Type 2-Dripproof, Types 3 and 3S-Raintight, \nand Types 4 and 4X-Watertight. The black solenoid on catalog \nnumbers prefixed “EF” or “EV” is designed to meet Enclosure \nTypes 3 and 3S-Raintight, Types 4 and 4X-Watertight, Types 6 \nand 6P-Submersible, Type 7, Explosionproof Class I, Division1 \nGroups A, B, C, & D and Type 9, -Dust-Ignitionproof Class II, \nDivision1 Groups E, F & G. The Class II, Groups F & G Dust \nLocations designation is not applicable for solenoids or solenoid \nvalves used for steam service or when a class “H” solenoid is used. \nSee Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 111,
+      "chunk_length": 960,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_112",
+    "text": "See Temperature Limitations section for solenoid identification and \nnameplate/retainer for service. When installed just as a solenoid and \nnot attached to an ASCO valve, the core has a 0.250-28 UNF-2B \ntapped hole, 0.38 or 0.63 minimum full thread. \nNOTE: Catalog number prefix “EV” denotes stainless steel \nconstruction. \nSolenoid catalog numbers 8202G/H1, 8202G/H3, 8202G/H5 \nand 8202G/H7 are epoxy encapsulated push-type, reverse-acting \nsolenoids having the same enclosure types as previously stated for \nCatalog numbers 8003G/H1 and 8003G/H2.  8007G/H are 3-way \nsolenoid operators with a pipe port or adapter, exhaust protector or \nvent at the top of the solenoid base sub-assembly. \nSeries 8003G/H, 8007G/H and 8202G/H solenoids are  also \navailable in: \n• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 112,
+      "chunk_length": 947,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_113",
+    "text": "• Open-Frame Construction:  The green solenoid may be \nsupplied with 1/4˝ spade, screw or DIN terminals. (Refer to \nFigure 4) \n□\t DIN\tPlug\tConnector\tKit\tNo.\tK236034:\t\tUse this kit only \nfor solenoids with DIN terminals. The DIN plug connector \nkit provides a two pole with grounding contact DIN Type \n43650 construction (See Figure 6). \n• Panel Mounted Construction: These solenoids are specifically \ndesigned to be panel mounted by the customer. Refer to Figures \nspecified in this I&M and the section on Installation of Panel \nMounted Solenoid for details. \n• Junction Box:  This junction box construction meets Enclosure \nTypes 2, 3, 3S, 4, and 4X. Only solenoids with 1/4˝ spade or \nscrew terminals may have a junction box. The junction box \nprovides a 1/2˝ conduit connection, grounding and spade or \nscrew terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 113,
+      "chunk_length": 976,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_114",
+    "text": "screw terminal connections within the junction box (See \nFigure 5).  \n• Multipin Connectors:  All Multipin connectors (VT, VB, ZT, \nZB) do not have any enclosure ratings.\nNOTE: For China RoHS Hazardous Substances \ntable, please go to the link below or scan QR code:\nwww.asco.com/ChinaRoHSDisclosure\nSOLENOID CHARACTERISTICS\nSeries 8003G/H and 8007G/H - When the solenoid is energized, \nthe core is drawn into the solenoid base sub-assembly. \nIMPORTANT:\tWhen\tthe\tsolenoid\tis\tde-energized,\tthe\tinitial\t\nreturn\tforce\tfor\tthe\tcore,\twhether\tdeveloped\tby\tspring,pressure,\t\nor\tweight,\tmust\texert\ta\tminimum\tforce\tto\tovercome\tresidual\t\nmagnetism\tcreated\tby\tthe\tsolenoid.\tMinimum\treturn\tforce\tfor\t\nAC\tconstruction\tis\t11\tounces,\tand\t5\tounces\tfor\tDC\tconstruction.\t\nSeries 8202G/H - When the solenoid is energized, the disc holder \nassembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 114,
+      "chunk_length": 985,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_115",
+    "text": "assembly seats against the orifice. When the solenoid is de-\nenergized , the disc holder assembly returns.\nIMPORTANT:\tInitial\treturn\tforce\tfor\tthe\tdisc\tor\tdisc\tholder\t\nassembly,\twhether\tdeveloped\tby\tspring,\tpressure,\tor\tweight,\tmust\t\nexert\ta\tminimum\tforce\tto\tovercome\tresidual\tmagnetism\tcreated\t\nby\tthe\tsolenoid.\tMinimum\treturn\tforce\tis\t1\tpound,\t5\tounces.\t\nApproved minimum fluid and ambient temperature is -76 °F (-60 °C) for the operator.  \nActual temperature can be limited depending on valve limits. \nTemperature Limitations \nFor maximum solenoid ambient temperatures, refer to chart. The \ntemperature limitations listed, only indicate maximum application \ntemperatures for field wiring rated at 90 °C. Check catalog number \nprefix and watt rating on nameplate to determine maximum \nambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 115,
+      "chunk_length": 959,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_116",
+    "text": "ambient temperature. See valve installation and maintenance \ninstructions for valve temperature limitations. \nNOTE: For steam service, refer to Wiring section, Junction Box \nfor temperature rating of supply wires.\nTemperature Limitations For Series 8003G, 8007G or 8202G\nWatt\nRating\nCatalog\nNumber Coil Prefix\nClass of\nInsulation\nMaximum Ambient/\nFluid Temperature\n10.1 & \n17.1\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 125 °F (52 °C)\n10.1, \n17.1  &  \n24.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, KC, SS, ST, SW, SU, (EV/\nEF)HC\nH 140 °F (60 °C)\n11.6 & \n22.6\nNONE, EF, EV, KF, KP, SC, SD, \nSF, SP, VT, VB, ZT & ZB F 104 °F (40 °C)\n11.6 & \n22.6\n(EV/EF)HB, (EV/EF)HT, KB, \nKH, SS, ST, SU, SV H 104 °F (40 °C)\n15.6 NONE, KB, SS, SV H 104 °F (40 °C)\n12.0 NONE, EF, EV, KF, SC, SF, \nVT, ZT F 131 °F (55 °C)\nTorque Chart\nPart Name Torque Value Inch-Pounds Torque Value Newton-Meters\nSolenoid Base \nSub-Assembly 260 ± 25 30 ± 3\nCore / Insert \nSub-Assembly 20 ± 5 2.25 ± 0.5",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 116,
+      "chunk_length": 971,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_117",
+    "text": "VT, ZT F 131 °F (55 °C)\nTorque Chart\nPart Name Torque Value Inch-Pounds Torque Value Newton-Meters\nSolenoid Base \nSub-Assembly 260 ± 25 30 ± 3\nCore / Insert \nSub-Assembly 20 ± 5 2.25 ± 0.5\nPage 2 of 7                                                                                                                    I&M V_6584_VB\n©ASCO, L.P. 160 Park Avenue, Florham Park, New Jersey 07932                                      www.emerson.com\n¹ =  EF, EV data applies to Explosionproof coils only. \n² = Some DC solenoid valves can be operated at maximum ambient \ntemperature of 55 °C / 131 °F with reduced pressure ratings. See \nvalve I&M for maximum operating pressure differential ratings. \n³ = Steam Service Valves have a maximum ambient temperature of 55 ° C \n/ 131 °F. \nPositioning\nThis solenoid is designed to perform properly when mounted in \nany position. However, for optimum life and performance, the \nsolenoid should be mounted vertically and upright to reduce the",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 117,
+      "chunk_length": 975,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_118",
+    "text": "This solenoid is designed to perform properly when mounted in \nany position. However, for optimum life and performance, the \nsolenoid should be mounted vertically and upright to reduce the \npossibility of foreign matter accumulating in the solenoid base \nsub-assembly area.\nWiring\t\nTo reduce the risk of electrocution, \nfire, or property damage, wiring must comply with local \ncodes and the National Electrical Code.\nPour réduire les risques \nd’électrocution, d’incendie ou de dommages matériels, \nle câblage doit être conforme aux codes locaux et au \nNEC.\nAll solenoids supplied with lead wires are provided with a \ngrounding wire which is green or green with yellow stripes and \na 1/2˝ conduit connection. To facilitate wiring, the solenoid may \nbe rotated 360°. For explosionproof solenoid version, the conduit \nlead wires are factory sealed for use in hazardous locations. On \nsome solenoids, a grounding wire (green or green with yellow \nstripes) is provided.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 118,
+      "chunk_length": 964,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_119",
+    "text": "lead wires are factory sealed for use in hazardous locations. On \nsome solenoids, a grounding wire (green or green with yellow \nstripes) is provided.\nWARNING  The solenoid must be grounded with \ngrounding wire (if included) or rigid metallic conduit - \ndo not rely on pipe as ground.\nADVERTISSEMENT La bobine doit être mise à la \nterre avec un fil de terre (le cas échéant) ou via un conduit \nmétallique rigide – n’utilisez pas la tuyauterie comme \nmasse.\nCAUTION  Cryogenic Applications - Solenoid lead \nwire insulation should not be subjected to cryogenic \ntemperatures. Adequate lead wire protection and routing \nmust be provided.\nATTENTION Application cryogénique. Les câbles \nélectriques ne doivent pas être soumis à des températures \ncryogéniques. Une protection adequate des cables \nélectriques doit être fournie.\nWARNING\nADVERTISSEMENT\nTemperature Limitations for Series 8003H, 8007H and 8202H  \nSolenoids\nWatt Ratings Maximum Ambient/\nFluid TemperaturePrefix ¹ Coil \nClass",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 119,
+      "chunk_length": 981,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_120",
+    "text": "électriques doit être fournie.\nWARNING\nADVERTISSEMENT\nTemperature Limitations for Series 8003H, 8007H and 8202H  \nSolenoids\nWatt Ratings Maximum Ambient/\nFluid TemperaturePrefix ¹ Coil \nClass\nAC DC60 Hz 50 Hz °C °F\nEF, EV FT 10.1 10.1 - 52 125EF, EV FB 17.1 17.1 -\nFT 10.1 10.1 - 55 131FB 17.1 17.1 -\nHT - - 11.6\n40 ² 104 ²\nHF - - 15.6\nHB - - 22.6\nEF, EV HT - - 11.6\nEF, EV HF - - 15.6\nEF, EV HB - - 22.6\nHT 10.1 10.1 -\n60 ³ 140 ³ \nHB 17.1 17.1 -\nEF, EV HT 10.1 10.1 -\nEF, EV HB 17.1 17.1 -\nEF, EV HC - - 24.6\nINSTALLATION \nProduct\tVerification\nCheck nameplate for correct catalog number, service, and wattage. \nCheck front of solenoid for voltage and frequency. Never apply \nincompatible fluids or exceed pressure rating of the valve. Contact \nASCO or your supplier for more information about this valve or \nother valve options if this valve is not suitable for your application.\nStrainer\tor\tfilter\trequirement\nTo protect the solenoid valve, install a strainer or filter, suitable",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 120,
+      "chunk_length": 981,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_121",
+    "text": "other valve options if this valve is not suitable for your application.\nStrainer\tor\tfilter\trequirement\nTo protect the solenoid valve, install a strainer or filter, suitable \nfor the service involved, in the inlet side as close to the valve as \npossible. Clean periodically depending on service conditions. \nWARNING  Electrical hazard from the accessibility \nof live parts. To prevent the possibility of death, serious \ninjury or property damage, install the open - frame \nsolenoid in an enclosure.\nADVERTISSEMENT Risque d’accès aux parties \nélectriques actives. Afin d’éviter tout risque de mort, \nblessure ou dommage, installer la bobine dans un boitier.\nFOR\tBLACK\tENCLOSURE\tTYPES\t7\tAND\t9\tONLY\t\nCAUTION  To prevent fire or explosion, do not \ninstall solenoid and/or valve where ignition temperature of \nhazardous atmosphere is less than 165 °C. On valves used \nfor steam service or when a class “H” solenoid is used, do not \ninstall in hazardous atmosphere where ignition temperature",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 121,
+      "chunk_length": 984,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_122",
+    "text": "hazardous atmosphere is less than 165 °C. On valves used \nfor steam service or when a class “H” solenoid is used, do not \ninstall in hazardous atmosphere where ignition temperature \nis less than 180 °C. See nameplate/retainer for service. \nATTENTION Afin d’éviter le risque de feu ou \nd’explosion, ne pas installer la bobine ou l’électrovanne \nou la température d’inflammation en atmosphère \nexplosible est inferieure à 165 °C. Pour les vannes \nvapeur ou lorsqu’une bobine de classe H est utilisée, \nne pas installer en atmosphère explosible lorsque la \ntempérature d’inflammation est inférieure à 180 °C. \nConsulter les conditions d’utilisations sures indiquées \nsur le produit ou dans la notice.\nNOTE: These solenoids have an internal non-resetable thermal \nfuse to  limit solenoid temperature in the event that extraordinary \nconditions occur which could cause excessive temperatures. These \nconditions include high input voltage, a jammed core, excessive",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 122,
+      "chunk_length": 958,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_123",
+    "text": "fuse to  limit solenoid temperature in the event that extraordinary \nconditions occur which could cause excessive temperatures. These \nconditions include high input voltage, a jammed core, excessive \nambient temperature or a shorted solenoid, etc. This unique feature \nis a standard feature only in solenoids with black explosionproof/\ndust-ignitionproof enclosures (Types 7 & 9). \nCAUTION\n  To protect the solenoid valve or \noperator, install a strainer or filter, suitable for the \nservice involved in the inlet side as close to the valve \nor operator as possible. Clean periodically depending \non service conditions. See ASCO Series 8600 and \n8601 for strainers.\nATTENTION Afin de protéger l’électrovanne ou \nl’actionneur, installer une crépine ou un filtre adapté \nle plus proche possible en amont de l’électrovanne \nou de l’actionneur. Nettoyer périodiquement le filtre \nen fonction des conditions d’utilisation. Se référer aux \nséries 8600 et 8601 pour les crépines.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 123,
+      "chunk_length": 972,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_124",
+    "text": "ou de l’actionneur. Nettoyer périodiquement le filtre \nen fonction des conditions d’utilisation. Se référer aux \nséries 8600 et 8601 pour les crépines. \n(For 12.0-Watt construction only): These \nsolenoids are provided with a special coil containing \nsolid state components that can be damaged by transient \nvoltages, over voltage, high temperatures or improper \nvalve assembly.\n(Construction 12.0 watts uniquement): \nces électrovannes sont fournies avec une bobine spéciale \ncontenant des composants semi-conducteurs qui peuvent \nêtre endommagés par des tensions transitoires, des \nsurtensions, des températures élevées ou un assemblage \ninapproprié de la vanne. \n1. When establishing the valve’s electrical connections, the \ncircuit that it is being connected to needs to have the proper \nSPD (Surge Protective Device) installed. This is to limit \nthe effects of over voltages and impulse currents caused by \nlightning and switching surges occurring on the power lines.",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 124,
+      "chunk_length": 970,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_125",
+    "text": "SPD (Surge Protective Device) installed. This is to limit \nthe effects of over voltages and impulse currents caused by \nlightning and switching surges occurring on the power lines. \nFailure to provide this conditioning on the affected circuits can \nlead to either open circuiting or short circuiting of the solenoid \nvalve coil. Information on the proper sizing of SPDs and \ninstallation requirements can be found in numerous industry \nstandards such as IEC 61643---12, IEEE STD. C62.23, IEEE \nCAUTION\nATTENTION",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 125,
+      "chunk_length": 511,
+      "original_page": 3,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  },
+  {
+    "id": "e9256bcc_chunk_126",
+    "text": "Page 4 of 4                                                                                                                           I&M V_10004_AA\n                                                                                 www.emerson.com/ASCO  \nFigure 1. Series 327C Valve With Solenoid",
+    "metadata": {
+      "source": "manual_asco1.pdf",
+      "chunk_index": 126,
+      "chunk_length": 294,
+      "original_page": 4,
+      "document_type": "manual_electrovalvula",
+      "processing_method": "langchain_pypdf"
+    }
+  }
+]
